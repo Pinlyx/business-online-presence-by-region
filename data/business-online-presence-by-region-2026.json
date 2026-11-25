@@ -1,0 +1,4888 @@
+{
+ "title": "Business online presence by region 2026",
+ "publisher": "Pinlyx",
+ "license": "CC BY 4.0",
+ "overture_release": "2026-11-18.0",
+ "overture_license": "CDLA-Permissive-2.0",
+ "retrieved": "2026-11-25",
+ "totals": {
+  "places": 50928232,
+  "countries": 15,
+  "regionAreas": 294,
+  "cityDistricts": 120,
+  "officialDatasets": 15
+ },
+ "countries": [
+  {
+   "country": "US",
+   "places": 18214782,
+   "website_pct": 76.4,
+   "any_social_pct": 59.2,
+   "facebook_pct": 58.7,
+   "instagram_pct": 0.72,
+   "x_pct": 1.32,
+   "phone_pct": 87.4,
+   "email_pct": 35.7,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "BR",
+   "places": 5887951,
+   "website_pct": 36.9,
+   "any_social_pct": 97.5,
+   "facebook_pct": 97.3,
+   "instagram_pct": 0.33,
+   "x_pct": 0.34,
+   "phone_pct": 84.8,
+   "email_pct": 44.2,
+   "whatsapp_pct": 1.67
+  },
+  {
+   "country": "DE",
+   "places": 4863410,
+   "website_pct": 73.6,
+   "any_social_pct": 28.4,
+   "facebook_pct": 28.1,
+   "instagram_pct": 1.0,
+   "x_pct": 0.58,
+   "phone_pct": 89.5,
+   "email_pct": 22.3,
+   "whatsapp_pct": 0.02
+  },
+  {
+   "country": "GB",
+   "places": 4280511,
+   "website_pct": 73.8,
+   "any_social_pct": 40.6,
+   "facebook_pct": 39.8,
+   "instagram_pct": 1.23,
+   "x_pct": 2.27,
+   "phone_pct": 85.4,
+   "email_pct": 21.7,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "FR",
+   "places": 3708123,
+   "website_pct": 58.3,
+   "any_social_pct": 42.4,
+   "facebook_pct": 42.0,
+   "instagram_pct": 0.85,
+   "x_pct": 0.58,
+   "phone_pct": 84.9,
+   "email_pct": 24.9,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "MX",
+   "places": 3270553,
+   "website_pct": 27.4,
+   "any_social_pct": 96.4,
+   "facebook_pct": 96.2,
+   "instagram_pct": 0.52,
+   "x_pct": 0.71,
+   "phone_pct": 81.3,
+   "email_pct": 41.5,
+   "whatsapp_pct": 0.71
+  },
+  {
+   "country": "ES",
+   "places": 2554564,
+   "website_pct": 53.5,
+   "any_social_pct": 43.9,
+   "facebook_pct": 43.7,
+   "instagram_pct": 0.49,
+   "x_pct": 0.59,
+   "phone_pct": 85.3,
+   "email_pct": 22.9,
+   "whatsapp_pct": 0.05
+  },
+  {
+   "country": "ID",
+   "places": 2138698,
+   "website_pct": 24.5,
+   "any_social_pct": 99.1,
+   "facebook_pct": 98.9,
+   "instagram_pct": 0.33,
+   "x_pct": 0.47,
+   "phone_pct": 69.7,
+   "email_pct": 27.8,
+   "whatsapp_pct": 1.11
+  },
+  {
+   "country": "TR",
+   "places": 1906674,
+   "website_pct": 33.6,
+   "any_social_pct": 94.1,
+   "facebook_pct": 93.2,
+   "instagram_pct": 0.8,
+   "x_pct": 1.14,
+   "phone_pct": 65.5,
+   "email_pct": 30.6,
+   "whatsapp_pct": 0.15
+  },
+  {
+   "country": "CA",
+   "places": 1660912,
+   "website_pct": 75.7,
+   "any_social_pct": 76.5,
+   "facebook_pct": 75.6,
+   "instagram_pct": 1.26,
+   "x_pct": 1.72,
+   "phone_pct": 86.4,
+   "email_pct": 46.7,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "RU",
+   "places": 734125,
+   "website_pct": 54.9,
+   "any_social_pct": 70.3,
+   "facebook_pct": 69.1,
+   "instagram_pct": 0.5,
+   "x_pct": 1.7,
+   "phone_pct": 56.9,
+   "email_pct": 30.9,
+   "whatsapp_pct": 0.11
+  },
+  {
+   "country": "CH",
+   "places": 708933,
+   "website_pct": 67.7,
+   "any_social_pct": 31.3,
+   "facebook_pct": 31.2,
+   "instagram_pct": 0.58,
+   "x_pct": 0.29,
+   "phone_pct": 84.4,
+   "email_pct": 19.6,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "AT",
+   "places": 573284,
+   "website_pct": 71.2,
+   "any_social_pct": 35.2,
+   "facebook_pct": 35.0,
+   "instagram_pct": 1.15,
+   "x_pct": 0.48,
+   "phone_pct": 85.0,
+   "email_pct": 25.9,
+   "whatsapp_pct": 0.01
+  },
+  {
+   "country": "PT",
+   "places": 398802,
+   "website_pct": 49.5,
+   "any_social_pct": 92.8,
+   "facebook_pct": 92.4,
+   "instagram_pct": 0.78,
+   "x_pct": 0.66,
+   "phone_pct": 85.0,
+   "email_pct": 61.2,
+   "whatsapp_pct": 0.17
+  },
+  {
+   "country": "LU",
+   "places": 26910,
+   "website_pct": 74.7,
+   "any_social_pct": 71.9,
+   "facebook_pct": 71.4,
+   "instagram_pct": 1.11,
+   "x_pct": 1.02,
+   "phone_pct": 84.7,
+   "email_pct": 48.0,
+   "whatsapp_pct": 0.05
+  }
+ ],
+ "regions": {
+  "AT": {
+   "level": "Bundesland",
+   "total": 573284,
+   "matched": 573194,
+   "areas": [
+    {
+     "name": "Wien",
+     "places": 109426,
+     "website_pct": 73.1,
+     "instagram_pct": 1.2,
+     "official_name": "Wien",
+     "official_code": "AT130",
+     "population": 1982097,
+     "population_year": 2023,
+     "places_per_1000": 55.2,
+     "websites_per_1000": 40.3
+    },
+    {
+     "name": "Niederösterreich",
+     "places": 100014,
+     "website_pct": 71.2,
+     "instagram_pct": 1.15,
+     "official_name": "Niederösterreich",
+     "official_code": "AT120",
+     "population": 1718373,
+     "population_year": 2023,
+     "places_per_1000": 58.2,
+     "websites_per_1000": 41.5
+    },
+    {
+     "name": "Oberösterreich",
+     "places": 83015,
+     "website_pct": 73.9,
+     "instagram_pct": 1.14,
+     "official_name": "Oberösterreich",
+     "official_code": "AT30",
+     "population": 1522825,
+     "population_year": 2023,
+     "places_per_1000": 54.5,
+     "websites_per_1000": 40.3
+    },
+    {
+     "name": "Steiermark",
+     "places": 77864,
+     "website_pct": 69.2,
+     "instagram_pct": 1.13,
+     "official_name": "Steiermark",
+     "official_code": "AT220",
+     "population": 1265198,
+     "population_year": 2023,
+     "places_per_1000": 61.5,
+     "websites_per_1000": 42.6
+    },
+    {
+     "name": "Tirol",
+     "places": 68933,
+     "website_pct": 70.1,
+     "instagram_pct": 0.99,
+     "official_name": "Tirol",
+     "official_code": "AT330",
+     "population": 771304,
+     "population_year": 2023,
+     "places_per_1000": 89.4,
+     "websites_per_1000": 62.7
+    },
+    {
+     "name": "Salzburg",
+     "places": 49205,
+     "website_pct": 71.5,
+     "instagram_pct": 0.98,
+     "official_name": "Salzburg",
+     "official_code": "AT320",
+     "population": 568346,
+     "population_year": 2023,
+     "places_per_1000": 86.6,
+     "websites_per_1000": 61.9
+    },
+    {
+     "name": "Kärnten",
+     "places": 39622,
+     "website_pct": 66.1,
+     "instagram_pct": 1.6,
+     "official_name": "Kärnten",
+     "official_code": "AT210",
+     "population": 568984,
+     "population_year": 2023,
+     "places_per_1000": 69.6,
+     "websites_per_1000": 46.0
+    },
+    {
+     "name": "Vorarlberg",
+     "places": 26669,
+     "website_pct": 71.5,
+     "instagram_pct": 0.99,
+     "official_name": "Vorarlberg",
+     "official_code": "AT340",
+     "population": 406395,
+     "population_year": 2023,
+     "places_per_1000": 65.6,
+     "websites_per_1000": 46.9
+    },
+    {
+     "name": "Burgenland",
+     "places": 18446,
+     "website_pct": 68.7,
+     "instagram_pct": 1.18,
+     "official_name": "Burgenland",
+     "official_code": "AT110",
+     "population": 301250,
+     "population_year": 2023,
+     "places_per_1000": 61.2,
+     "websites_per_1000": 42.1
+    }
+   ]
+  },
+  "CH": {
+   "level": "Kanton",
+   "total": 708933,
+   "matched": 708778,
+   "areas": [
+    {
+     "name": "Zürich",
+     "places": 126285,
+     "website_pct": 73.3,
+     "instagram_pct": 0.48,
+     "official_name": "Zürich",
+     "official_code": "ZH",
+     "population": 1632918,
+     "population_year": 2025,
+     "places_per_1000": 77.3,
+     "websites_per_1000": 56.7
+    },
+    {
+     "name": "Bern/Berne",
+     "places": 77873,
+     "website_pct": 68.9,
+     "instagram_pct": 0.73,
+     "official_name": "Bern",
+     "official_code": "BE",
+     "population": 1076127,
+     "population_year": 2025,
+     "places_per_1000": 72.4,
+     "websites_per_1000": 49.9
+    },
+    {
+     "name": "Vaud",
+     "places": 67874,
+     "website_pct": 64.6,
+     "instagram_pct": 0.68,
+     "official_name": "Waadt",
+     "official_code": "VD",
+     "population": 863650,
+     "population_year": 2025,
+     "places_per_1000": 78.6,
+     "websites_per_1000": 50.8
+    },
+    {
+     "name": "Aargau",
+     "places": 45885,
+     "website_pct": 71.1,
+     "instagram_pct": 0.63,
+     "official_name": "Aargau",
+     "official_code": "AG",
+     "population": 743768,
+     "population_year": 2025,
+     "places_per_1000": 61.7,
+     "websites_per_1000": 43.9
+    },
+    {
+     "name": "Genève",
+     "places": 44588,
+     "website_pct": 61.5,
+     "instagram_pct": 0.44,
+     "official_name": "Genf",
+     "official_code": "GE",
+     "population": 537084,
+     "population_year": 2025,
+     "places_per_1000": 83.0,
+     "websites_per_1000": 51.1
+    },
+    {
+     "name": "St. Gallen",
+     "places": 41288,
+     "website_pct": 68.9,
+     "instagram_pct": 0.74,
+     "official_name": "St. Gallen",
+     "official_code": "SG",
+     "population": 544040,
+     "population_year": 2025,
+     "places_per_1000": 75.9,
+     "websites_per_1000": 52.3
+    },
+    {
+     "name": "Ticino",
+     "places": 36459,
+     "website_pct": 59.1,
+     "instagram_pct": 0.43,
+     "official_name": "Tessin",
+     "official_code": "TI",
+     "population": 359783,
+     "population_year": 2025,
+     "places_per_1000": 101.3,
+     "websites_per_1000": 59.9
+    },
+    {
+     "name": "Valais/Wallis",
+     "places": 35230,
+     "website_pct": 61.6,
+     "instagram_pct": 0.63,
+     "official_name": "Wallis",
+     "official_code": "VS",
+     "population": 376113,
+     "population_year": 2025,
+     "places_per_1000": 93.7,
+     "websites_per_1000": 57.7
+    },
+    {
+     "name": "Luzern",
+     "places": 30831,
+     "website_pct": 71.8,
+     "instagram_pct": 0.67,
+     "official_name": "Luzern",
+     "official_code": "LU",
+     "population": 441500,
+     "population_year": 2025,
+     "places_per_1000": 69.8,
+     "websites_per_1000": 50.1
+    },
+    {
+     "name": "Fribourg/Freiburg",
+     "places": 22682,
+     "website_pct": 65.9,
+     "instagram_pct": 0.82,
+     "official_name": "Freiburg",
+     "official_code": "FR",
+     "population": 350918,
+     "population_year": 2025,
+     "places_per_1000": 64.6,
+     "websites_per_1000": 42.6
+    },
+    {
+     "name": "Thurgau",
+     "places": 22026,
+     "website_pct": 69.6,
+     "instagram_pct": 0.57,
+     "official_name": "Thurgau",
+     "official_code": "TG",
+     "population": 302806,
+     "population_year": 2025,
+     "places_per_1000": 72.7,
+     "websites_per_1000": 50.6
+    },
+    {
+     "name": "Graubünden/Grischun/Grigioni",
+     "places": 21884,
+     "website_pct": 61.5,
+     "instagram_pct": 0.66,
+     "official_name": "Graubünden",
+     "official_code": "GR",
+     "population": 207400,
+     "population_year": 2025,
+     "places_per_1000": 105.5,
+     "websites_per_1000": 64.9
+    },
+    {
+     "name": "Basel-Landschaft",
+     "places": 19937,
+     "website_pct": 68.2,
+     "instagram_pct": 0.43,
+     "official_name": "Basel-Landschaft",
+     "official_code": "BL",
+     "population": 303872,
+     "population_year": 2025,
+     "places_per_1000": 65.6,
+     "websites_per_1000": 44.8
+    },
+    {
+     "name": "Solothurn",
+     "places": 19764,
+     "website_pct": 68.0,
+     "instagram_pct": 0.61,
+     "official_name": "Solothurn",
+     "official_code": "SO",
+     "population": 291583,
+     "population_year": 2025,
+     "places_per_1000": 67.8,
+     "websites_per_1000": 46.1
+    },
+    {
+     "name": "Basel-Stadt",
+     "places": 18885,
+     "website_pct": 69.2,
+     "instagram_pct": 0.44,
+     "official_name": "Basel-Stadt",
+     "official_code": "BS",
+     "population": 204157,
+     "population_year": 2025,
+     "places_per_1000": 92.5,
+     "websites_per_1000": 64.0
+    },
+    {
+     "name": "Neuchâtel",
+     "places": 15355,
+     "website_pct": 62.2,
+     "instagram_pct": 0.38,
+     "official_name": "Neuenburg",
+     "official_code": "NE",
+     "population": 180365,
+     "population_year": 2025,
+     "places_per_1000": 85.1,
+     "websites_per_1000": 52.9
+    },
+    {
+     "name": "Zug",
+     "places": 15214,
+     "website_pct": 71.8,
+     "instagram_pct": 0.41,
+     "official_name": "Zug",
+     "official_code": "ZG",
+     "population": 135018,
+     "population_year": 2025,
+     "places_per_1000": 112.7,
+     "websites_per_1000": 80.9
+    },
+    {
+     "name": "Schwyz",
+     "places": 13987,
+     "website_pct": 70.1,
+     "instagram_pct": 0.58,
+     "official_name": "Schwyz",
+     "official_code": "SZ",
+     "population": 170072,
+     "population_year": 2025,
+     "places_per_1000": 82.2,
+     "websites_per_1000": 57.6
+    },
+    {
+     "name": "Jura",
+     "places": 6975,
+     "website_pct": 63.8,
+     "instagram_pct": 0.44,
+     "official_name": "Jura",
+     "official_code": "JU",
+     "population": 75178,
+     "population_year": 2025,
+     "places_per_1000": 92.8,
+     "websites_per_1000": 59.2
+    },
+    {
+     "name": "Schaffhausen",
+     "places": 6487,
+     "website_pct": 69.0,
+     "instagram_pct": 0.48,
+     "official_name": "Schaffhausen",
+     "official_code": "SH",
+     "population": 90087,
+     "population_year": 2025,
+     "places_per_1000": 72.0,
+     "websites_per_1000": 49.7
+    },
+    {
+     "name": "Appenzell Ausserrhoden",
+     "places": 4213,
+     "website_pct": 69.2,
+     "instagram_pct": 0.64,
+     "official_name": "Appenzell Ausserrhoden",
+     "official_code": "AR",
+     "population": 57221,
+     "population_year": 2025,
+     "places_per_1000": 73.6,
+     "websites_per_1000": 51.0
+    },
+    {
+     "name": "Nidwalden",
+     "places": 3825,
+     "website_pct": 67.9,
+     "instagram_pct": 0.55,
+     "official_name": "Nidwalden",
+     "official_code": "NW",
+     "population": 45664,
+     "population_year": 2025,
+     "places_per_1000": 83.8,
+     "websites_per_1000": 56.9
+    },
+    {
+     "name": "Glarus",
+     "places": 3551,
+     "website_pct": 63.6,
+     "instagram_pct": 0.54,
+     "official_name": "Glarus",
+     "official_code": "GL",
+     "population": 42451,
+     "population_year": 2025,
+     "places_per_1000": 83.6,
+     "websites_per_1000": 53.2
+    },
+    {
+     "name": "Obwalden",
+     "places": 3226,
+     "website_pct": 65.8,
+     "instagram_pct": 0.46,
+     "official_name": "Obwalden",
+     "official_code": "OW",
+     "population": 39879,
+     "population_year": 2025,
+     "places_per_1000": 80.9,
+     "websites_per_1000": 53.3
+    },
+    {
+     "name": "Uri",
+     "places": 2959,
+     "website_pct": 58.2,
+     "instagram_pct": 0.71,
+     "official_name": "Uri",
+     "official_code": "UR",
+     "population": 38581,
+     "population_year": 2025,
+     "places_per_1000": 76.7,
+     "websites_per_1000": 44.6
+    },
+    {
+     "name": "Appenzell Innerrhoden",
+     "places": 1495,
+     "website_pct": 70.7,
+     "instagram_pct": 1.2,
+     "official_name": "Appenzell Innerrhoden",
+     "official_code": "AI",
+     "population": 16890,
+     "population_year": 2025,
+     "places_per_1000": 88.5,
+     "websites_per_1000": 62.6
+    }
+   ]
+  },
+  "ES": {
+   "level": "provincia",
+   "total": 2554564,
+   "matched": 2547454,
+   "areas": [
+    {
+     "name": "Comunidad de Madrid",
+     "places": 322688,
+     "website_pct": 61.6,
+     "instagram_pct": 0.67,
+     "official_name": "Madrid",
+     "official_code": "28",
+     "population": 7162167,
+     "population_year": 2026,
+     "places_per_1000": 45.1,
+     "websites_per_1000": 27.8
+    },
+    {
+     "name": "Barcelona",
+     "places": 317150,
+     "website_pct": 56.9,
+     "instagram_pct": 0.5,
+     "official_name": "Barcelona",
+     "official_code": "08",
+     "population": 6010774,
+     "population_year": 2026,
+     "places_per_1000": 52.8,
+     "websites_per_1000": 30.0
+    },
+    {
+     "name": "València / Valencia",
+     "places": 143297,
+     "website_pct": 54.3,
+     "instagram_pct": 0.56,
+     "official_name": "Valencia/València",
+     "official_code": "46",
+     "population": 2810016,
+     "population_year": 2026,
+     "places_per_1000": 51.0,
+     "websites_per_1000": 27.7
+    },
+    {
+     "name": "Alacant / Alicante",
+     "places": 128612,
+     "website_pct": 52.5,
+     "instagram_pct": 0.47,
+     "official_name": "Alicante/Alacant",
+     "official_code": "03",
+     "population": 2080991,
+     "population_year": 2026,
+     "places_per_1000": 61.8,
+     "websites_per_1000": 32.5
+    },
+    {
+     "name": "Málaga",
+     "places": 118004,
+     "website_pct": 53.4,
+     "instagram_pct": 0.45,
+     "official_name": "Málaga",
+     "official_code": "29",
+     "population": 1814538,
+     "population_year": 2026,
+     "places_per_1000": 65.0,
+     "websites_per_1000": 34.7
+    },
+    {
+     "name": "Sevilla",
+     "places": 97041,
+     "website_pct": 50.6,
+     "instagram_pct": 0.67,
+     "official_name": "Sevilla",
+     "official_code": "41",
+     "population": 1997757,
+     "population_year": 2026,
+     "places_per_1000": 48.6,
+     "websites_per_1000": 24.6
+    },
+    {
+     "name": "Illes Balears",
+     "places": 85277,
+     "website_pct": 54.2,
+     "instagram_pct": 0.39,
+     "official_name": "Balears, Illes",
+     "official_code": "07",
+     "population": 1263555,
+     "population_year": 2026,
+     "places_per_1000": 67.5,
+     "websites_per_1000": 36.6
+    },
+    {
+     "name": "Región de Murcia",
+     "places": 73850,
+     "website_pct": 51.9,
+     "instagram_pct": 0.42,
+     "official_name": "Murcia",
+     "official_code": "30",
+     "population": 1605838,
+     "population_year": 2026,
+     "places_per_1000": 46.0,
+     "websites_per_1000": 23.9
+    },
+    {
+     "name": "Cádiz",
+     "places": 62779,
+     "website_pct": 46.6,
+     "instagram_pct": 0.39,
+     "official_name": "Cádiz",
+     "official_code": "11",
+     "population": 1267089,
+     "population_year": 2026,
+     "places_per_1000": 49.5,
+     "websites_per_1000": 23.1
+    },
+    {
+     "name": "Las Palmas",
+     "places": 62673,
+     "website_pct": 48.2,
+     "instagram_pct": 0.62,
+     "official_name": "Palmas, Las",
+     "official_code": "35",
+     "population": 1182852,
+     "population_year": 2026,
+     "places_per_1000": 53.0,
+     "websites_per_1000": 25.6
+    },
+    {
+     "name": "Santa Cruz de Tenerife",
+     "places": 62635,
+     "website_pct": 47.0,
+     "instagram_pct": 0.45,
+     "official_name": "Santa Cruz de Tenerife",
+     "official_code": "38",
+     "population": 1096779,
+     "population_year": 2026,
+     "places_per_1000": 57.1,
+     "websites_per_1000": 26.8
+    },
+    {
+     "name": "A Coruña",
+     "places": 57795,
+     "website_pct": 53.2,
+     "instagram_pct": 0.38,
+     "official_name": "Coruña, A",
+     "official_code": "15",
+     "population": 1143732,
+     "population_year": 2026,
+     "places_per_1000": 50.5,
+     "websites_per_1000": 26.9
+    },
+    {
+     "name": "Asturias / Asturies",
+     "places": 56371,
+     "website_pct": 51.1,
+     "instagram_pct": 0.56,
+     "official_name": "Asturias",
+     "official_code": "33",
+     "population": 1022524,
+     "population_year": 2026,
+     "places_per_1000": 55.1,
+     "websites_per_1000": 28.1
+    },
+    {
+     "name": "Girona",
+     "places": 52663,
+     "website_pct": 54.0,
+     "instagram_pct": 0.57,
+     "official_name": "Girona",
+     "official_code": "17",
+     "population": 839047,
+     "population_year": 2026,
+     "places_per_1000": 62.8,
+     "websites_per_1000": 33.9
+    },
+    {
+     "name": "Granada",
+     "places": 52435,
+     "website_pct": 49.7,
+     "instagram_pct": 0.42,
+     "official_name": "Granada",
+     "official_code": "18",
+     "population": 957055,
+     "population_year": 2026,
+     "places_per_1000": 54.8,
+     "websites_per_1000": 27.2
+    },
+    {
+     "name": "Pontevedra",
+     "places": 51111,
+     "website_pct": 52.5,
+     "instagram_pct": 0.32,
+     "official_name": "Pontevedra",
+     "official_code": "36",
+     "population": 951316,
+     "population_year": 2026,
+     "places_per_1000": 53.7,
+     "websites_per_1000": 28.2
+    },
+    {
+     "name": "Bizkaia",
+     "places": 51000,
+     "website_pct": 53.8,
+     "instagram_pct": 0.4,
+     "official_name": "Bizkaia",
+     "official_code": "48",
+     "population": 1173730,
+     "population_year": 2026,
+     "places_per_1000": 43.5,
+     "websites_per_1000": 23.4
+    },
+    {
+     "name": "Tarragona",
+     "places": 46411,
+     "website_pct": 50.3,
+     "instagram_pct": 0.46,
+     "official_name": "Tarragona",
+     "official_code": "43",
+     "population": 890683,
+     "population_year": 2026,
+     "places_per_1000": 52.1,
+     "websites_per_1000": 26.2
+    },
+    {
+     "name": "Zaragoza",
+     "places": 46232,
+     "website_pct": 56.2,
+     "instagram_pct": 0.47,
+     "official_name": "Zaragoza",
+     "official_code": "50",
+     "population": 1012521,
+     "population_year": 2026,
+     "places_per_1000": 45.7,
+     "websites_per_1000": 25.6
+    },
+    {
+     "name": "Córdoba",
+     "places": 39625,
+     "website_pct": 48.4,
+     "instagram_pct": 0.35,
+     "official_name": "Córdoba",
+     "official_code": "14",
+     "population": 775985,
+     "population_year": 2026,
+     "places_per_1000": 51.1,
+     "websites_per_1000": 24.7
+    },
+    {
+     "name": "Castelló / Castellón",
+     "places": 35324,
+     "website_pct": 50.0,
+     "instagram_pct": 0.46,
+     "official_name": "Castellón/Castelló",
+     "official_code": "12",
+     "population": 641108,
+     "population_year": 2026,
+     "places_per_1000": 55.1,
+     "websites_per_1000": 27.6
+    },
+    {
+     "name": "Almería",
+     "places": 34764,
+     "website_pct": 48.3,
+     "instagram_pct": 0.51,
+     "official_name": "Almería",
+     "official_code": "04",
+     "population": 783609,
+     "population_year": 2026,
+     "places_per_1000": 44.4,
+     "websites_per_1000": 21.4
+    },
+    {
+     "name": "Toledo",
+     "places": 34231,
+     "website_pct": 49.0,
+     "instagram_pct": 0.46,
+     "official_name": "Toledo",
+     "official_code": "45",
+     "population": 772892,
+     "population_year": 2026,
+     "places_per_1000": 44.3,
+     "websites_per_1000": 21.7
+    },
+    {
+     "name": "Badajoz",
+     "places": 34073,
+     "website_pct": 46.3,
+     "instagram_pct": 0.3,
+     "official_name": "Badajoz",
+     "official_code": "06",
+     "population": 666731,
+     "population_year": 2026,
+     "places_per_1000": 51.1,
+     "websites_per_1000": 23.6
+    },
+    {
+     "name": "Navarra",
+     "places": 32631,
+     "website_pct": 56.5,
+     "instagram_pct": 0.37,
+     "official_name": "Navarra",
+     "official_code": "31",
+     "population": 689970,
+     "population_year": 2026,
+     "places_per_1000": 47.3,
+     "websites_per_1000": 26.7
+    },
+    {
+     "name": "Cantabria",
+     "places": 30960,
+     "website_pct": 53.2,
+     "instagram_pct": 0.3,
+     "official_name": "Cantabria",
+     "official_code": "39",
+     "population": 597389,
+     "population_year": 2026,
+     "places_per_1000": 51.8,
+     "websites_per_1000": 27.6
+    },
+    {
+     "name": "Gipuzkoa",
+     "places": 30782,
+     "website_pct": 57.2,
+     "instagram_pct": 0.37,
+     "official_name": "Gipuzkoa",
+     "official_code": "20",
+     "population": 735560,
+     "population_year": 2026,
+     "places_per_1000": 41.8,
+     "websites_per_1000": 23.9
+    },
+    {
+     "name": "Jaén",
+     "places": 29993,
+     "website_pct": 45.9,
+     "instagram_pct": 0.33,
+     "official_name": "Jaén",
+     "official_code": "23",
+     "population": 619375,
+     "population_year": 2026,
+     "places_per_1000": 48.4,
+     "websites_per_1000": 22.2
+    },
+    {
+     "name": "Lleida",
+     "places": 25149,
+     "website_pct": 51.8,
+     "instagram_pct": 0.45,
+     "official_name": "Lleida",
+     "official_code": "25",
+     "population": 465772,
+     "population_year": 2026,
+     "places_per_1000": 54.0,
+     "websites_per_1000": 28.0
+    },
+    {
+     "name": "León",
+     "places": 25080,
+     "website_pct": 49.9,
+     "instagram_pct": 0.51,
+     "official_name": "León",
+     "official_code": "24",
+     "population": 450349,
+     "population_year": 2026,
+     "places_per_1000": 55.7,
+     "websites_per_1000": 27.8
+    },
+    {
+     "name": "Huelva",
+     "places": 24709,
+     "website_pct": 44.0,
+     "instagram_pct": 0.6,
+     "official_name": "Huelva",
+     "official_code": "21",
+     "population": 542241,
+     "population_year": 2026,
+     "places_per_1000": 45.6,
+     "websites_per_1000": 20.1
+    },
+    {
+     "name": "Valladolid",
+     "places": 24563,
+     "website_pct": 57.2,
+     "instagram_pct": 0.56,
+     "official_name": "Valladolid",
+     "official_code": "47",
+     "population": 534136,
+     "population_year": 2026,
+     "places_per_1000": 46.0,
+     "websites_per_1000": 26.3
+    },
+    {
+     "name": "Ciudad Real",
+     "places": 24186,
+     "website_pct": 47.9,
+     "instagram_pct": 0.44,
+     "official_name": "Ciudad Real",
+     "official_code": "13",
+     "population": 498503,
+     "population_year": 2026,
+     "places_per_1000": 48.5,
+     "websites_per_1000": 23.2
+    },
+    {
+     "name": "Cáceres",
+     "places": 21597,
+     "website_pct": 47.7,
+     "instagram_pct": 0.28,
+     "official_name": "Cáceres",
+     "official_code": "10",
+     "population": 389249,
+     "population_year": 2026,
+     "places_per_1000": 55.5,
+     "websites_per_1000": 26.5
+    },
+    {
+     "name": "Albacete",
+     "places": 20223,
+     "website_pct": 50.1,
+     "instagram_pct": 0.45,
+     "official_name": "Albacete",
+     "official_code": "02",
+     "population": 393492,
+     "population_year": 2026,
+     "places_per_1000": 51.4,
+     "websites_per_1000": 25.7
+    },
+    {
+     "name": "Burgos",
+     "places": 19020,
+     "website_pct": 54.5,
+     "instagram_pct": 0.53,
+     "official_name": "Burgos",
+     "official_code": "09",
+     "population": 365319,
+     "population_year": 2026,
+     "places_per_1000": 52.1,
+     "websites_per_1000": 28.4
+    },
+    {
+     "name": "Salamanca",
+     "places": 18444,
+     "website_pct": 53.8,
+     "instagram_pct": 0.4,
+     "official_name": "Salamanca",
+     "official_code": "37",
+     "population": 330309,
+     "population_year": 2026,
+     "places_per_1000": 55.8,
+     "websites_per_1000": 30.0
+    },
+    {
+     "name": "Lugo",
+     "places": 17753,
+     "website_pct": 51.3,
+     "instagram_pct": 0.32,
+     "official_name": "Lugo",
+     "official_code": "27",
+     "population": 328115,
+     "population_year": 2026,
+     "places_per_1000": 54.1,
+     "websites_per_1000": 27.8
+    },
+    {
+     "name": "La Rioja",
+     "places": 16842,
+     "website_pct": 56.9,
+     "instagram_pct": 0.36,
+     "official_name": "Rioja, La",
+     "official_code": "26",
+     "population": 329817,
+     "population_year": 2026,
+     "places_per_1000": 51.1,
+     "websites_per_1000": 29.1
+    },
+    {
+     "name": "Huesca",
+     "places": 15839,
+     "website_pct": 53.3,
+     "instagram_pct": 0.39,
+     "official_name": "Huesca",
+     "official_code": "22",
+     "population": 233130,
+     "population_year": 2026,
+     "places_per_1000": 67.9,
+     "websites_per_1000": 36.2
+    },
+    {
+     "name": "Ourense",
+     "places": 14929,
+     "website_pct": 49.2,
+     "instagram_pct": 0.35,
+     "official_name": "Ourense",
+     "official_code": "32",
+     "population": 306665,
+     "population_year": 2026,
+     "places_per_1000": 48.7,
+     "websites_per_1000": 24.0
+    },
+    {
+     "name": "Araba / Álava",
+     "places": 13849,
+     "website_pct": 58.6,
+     "instagram_pct": 0.54,
+     "official_name": "Araba/Álava",
+     "official_code": "01",
+     "population": 344637,
+     "population_year": 2026,
+     "places_per_1000": 40.2,
+     "websites_per_1000": 23.5
+    },
+    {
+     "name": "Guadalajara",
+     "places": 11993,
+     "website_pct": 51.3,
+     "instagram_pct": 0.5,
+     "official_name": "Guadalajara",
+     "official_code": "19",
+     "population": 291719,
+     "population_year": 2026,
+     "places_per_1000": 41.1,
+     "websites_per_1000": 21.1
+    },
+    {
+     "name": "Cuenca",
+     "places": 11117,
+     "website_pct": 46.4,
+     "instagram_pct": 0.46,
+     "official_name": "Cuenca",
+     "official_code": "16",
+     "population": 201393,
+     "population_year": 2026,
+     "places_per_1000": 55.2,
+     "websites_per_1000": 25.6
+    },
+    {
+     "name": "Ávila",
+     "places": 9998,
+     "website_pct": 49.4,
+     "instagram_pct": 0.4,
+     "official_name": "Ávila",
+     "official_code": "05",
+     "population": 162327,
+     "population_year": 2026,
+     "places_per_1000": 61.6,
+     "websites_per_1000": 30.4
+    },
+    {
+     "name": "Segovia",
+     "places": 9847,
+     "website_pct": 52.8,
+     "instagram_pct": 0.48,
+     "official_name": "Segovia",
+     "official_code": "40",
+     "population": 160526,
+     "population_year": 2026,
+     "places_per_1000": 61.3,
+     "websites_per_1000": 32.4
+    },
+    {
+     "name": "Zamora",
+     "places": 9347,
+     "website_pct": 48.6,
+     "instagram_pct": 0.43,
+     "official_name": "Zamora",
+     "official_code": "49",
+     "population": 165766,
+     "population_year": 2026,
+     "places_per_1000": 56.4,
+     "websites_per_1000": 27.4
+    },
+    {
+     "name": "Teruel",
+     "places": 8895,
+     "website_pct": 50.9,
+     "instagram_pct": 0.51,
+     "official_name": "Teruel",
+     "official_code": "44",
+     "population": 137495,
+     "population_year": 2026,
+     "places_per_1000": 64.7,
+     "websites_per_1000": 32.9
+    },
+    {
+     "name": "Palencia",
+     "places": 8134,
+     "website_pct": 51.0,
+     "instagram_pct": 0.39,
+     "official_name": "Palencia",
+     "official_code": "34",
+     "population": 160312,
+     "population_year": 2026,
+     "places_per_1000": 50.7,
+     "websites_per_1000": 25.9
+    },
+    {
+     "name": "Soria",
+     "places": 5533,
+     "website_pct": 54.6,
+     "instagram_pct": 0.38,
+     "official_name": "Soria",
+     "official_code": "42",
+     "population": 90923,
+     "population_year": 2026,
+     "places_per_1000": 60.9,
+     "websites_per_1000": 33.2
+    }
+   ]
+  },
+  "ES_CCAA": {
+   "level": "comunidad autónoma",
+   "total": 2554564,
+   "matched": 2545834,
+   "areas": [
+    {
+     "name": "Andalucía",
+     "places": 458459,
+     "website_pct": 49.6,
+     "instagram_pct": 0.48,
+     "official_name": "Andalucía",
+     "official_code": "01",
+     "population": 8757649,
+     "population_year": 2026,
+     "places_per_1000": 52.3,
+     "websites_per_1000": 26.0
+    },
+    {
+     "name": "Catalunya",
+     "places": 440419,
+     "website_pct": 55.6,
+     "instagram_pct": 0.5,
+     "official_name": "Cataluña",
+     "official_code": "09",
+     "population": 8206276,
+     "population_year": 2026,
+     "places_per_1000": 53.7,
+     "websites_per_1000": 29.8
+    },
+    {
+     "name": "Comunidad de Madrid",
+     "places": 322691,
+     "website_pct": 61.6,
+     "instagram_pct": 0.67,
+     "official_name": "Madrid, Comunidad de",
+     "official_code": "13",
+     "population": 7162167,
+     "population_year": 2026,
+     "places_per_1000": 45.1,
+     "websites_per_1000": 27.8
+    },
+    {
+     "name": "Comunitat Valenciana",
+     "places": 306681,
+     "website_pct": 53.1,
+     "instagram_pct": 0.51,
+     "official_name": "Comunitat Valenciana",
+     "official_code": "10",
+     "population": 5532115,
+     "population_year": 2026,
+     "places_per_1000": 55.4,
+     "websites_per_1000": 29.4
+    },
+    {
+     "name": "Galicia",
+     "places": 140937,
+     "website_pct": 52.3,
+     "instagram_pct": 0.35,
+     "official_name": "Galicia",
+     "official_code": "12",
+     "population": 2729828,
+     "population_year": 2026,
+     "places_per_1000": 51.6,
+     "websites_per_1000": 27.0
+    },
+    {
+     "name": "Castilla y León",
+     "places": 129993,
+     "website_pct": 52.8,
+     "instagram_pct": 0.48,
+     "official_name": "Castilla y León",
+     "official_code": "07",
+     "population": 2419967,
+     "population_year": 2026,
+     "places_per_1000": 53.7,
+     "websites_per_1000": 28.4
+    },
+    {
+     "name": "Canarias",
+     "places": 123802,
+     "website_pct": 47.7,
+     "instagram_pct": 0.54,
+     "official_name": "Canarias",
+     "official_code": "05",
+     "population": 2279631,
+     "population_year": 2026,
+     "places_per_1000": 54.3,
+     "websites_per_1000": 25.9
+    },
+    {
+     "name": "Castilla-La Mancha",
+     "places": 101742,
+     "website_pct": 48.9,
+     "instagram_pct": 0.46,
+     "official_name": "Castilla - La Mancha",
+     "official_code": "08",
+     "population": 2157999,
+     "population_year": 2026,
+     "places_per_1000": 47.1,
+     "websites_per_1000": 23.1
+    },
+    {
+     "name": "Euskadi",
+     "places": 95495,
+     "website_pct": 55.6,
+     "instagram_pct": 0.41,
+     "official_name": "País Vasco",
+     "official_code": "16",
+     "population": 2253927,
+     "population_year": 2026,
+     "places_per_1000": 42.4,
+     "websites_per_1000": 23.5
+    },
+    {
+     "name": "Illes Balears",
+     "places": 84308,
+     "website_pct": 54.2,
+     "instagram_pct": 0.39,
+     "official_name": "Balears, Illes",
+     "official_code": "04",
+     "population": 1263555,
+     "population_year": 2026,
+     "places_per_1000": 66.7,
+     "websites_per_1000": 36.2
+    },
+    {
+     "name": "Región de Murcia",
+     "places": 73711,
+     "website_pct": 51.9,
+     "instagram_pct": 0.42,
+     "official_name": "Murcia, Región de",
+     "official_code": "14",
+     "population": 1605838,
+     "population_year": 2026,
+     "places_per_1000": 45.9,
+     "websites_per_1000": 23.8
+    },
+    {
+     "name": "Aragón",
+     "places": 70951,
+     "website_pct": 54.9,
+     "instagram_pct": 0.45,
+     "official_name": "Aragón",
+     "official_code": "02",
+     "population": 1383146,
+     "population_year": 2026,
+     "places_per_1000": 51.3,
+     "websites_per_1000": 28.1
+    },
+    {
+     "name": "Asturias / Asturies",
+     "places": 56224,
+     "website_pct": 51.0,
+     "instagram_pct": 0.56,
+     "official_name": "Asturias, Principado de",
+     "official_code": "03",
+     "population": 1022524,
+     "population_year": 2026,
+     "places_per_1000": 55.0,
+     "websites_per_1000": 28.1
+    },
+    {
+     "name": "Extremadura",
+     "places": 55653,
+     "website_pct": 46.8,
+     "instagram_pct": 0.29,
+     "official_name": "Extremadura",
+     "official_code": "11",
+     "population": 1055980,
+     "population_year": 2026,
+     "places_per_1000": 52.7,
+     "websites_per_1000": 24.7
+    },
+    {
+     "name": "Navarra / Nafarroa",
+     "places": 32612,
+     "website_pct": 56.5,
+     "instagram_pct": 0.37,
+     "official_name": "Navarra, Comunidad Foral de",
+     "official_code": "15",
+     "population": 689970,
+     "population_year": 2026,
+     "places_per_1000": 47.3,
+     "websites_per_1000": 26.7
+    },
+    {
+     "name": "Cantabria",
+     "places": 30712,
+     "website_pct": 53.2,
+     "instagram_pct": 0.31,
+     "official_name": "Cantabria",
+     "official_code": "06",
+     "population": 597389,
+     "population_year": 2026,
+     "places_per_1000": 51.4,
+     "websites_per_1000": 27.3
+    },
+    {
+     "name": "La Rioja",
+     "places": 16845,
+     "website_pct": 56.9,
+     "instagram_pct": 0.36,
+     "official_name": "Rioja, La",
+     "official_code": "17",
+     "population": 329817,
+     "population_year": 2026,
+     "places_per_1000": 51.1,
+     "websites_per_1000": 29.1
+    },
+    {
+     "name": "Melilla",
+     "places": 2505,
+     "website_pct": 37.2,
+     "instagram_pct": 0.4,
+     "official_name": "Melilla",
+     "official_code": "19",
+     "population": 86715,
+     "population_year": 2026,
+     "places_per_1000": 28.9,
+     "websites_per_1000": 10.7
+    },
+    {
+     "name": "Ceuta",
+     "places": 2093,
+     "website_pct": 38.2,
+     "instagram_pct": 0.24,
+     "official_name": "Ceuta",
+     "official_code": "18",
+     "population": 84129,
+     "population_year": 2026,
+     "places_per_1000": 24.9,
+     "websites_per_1000": 9.5
+    },
+    {
+     "name": "Plazas de Soberanía",
+     "places": 1,
+     "website_pct": 0.0,
+     "instagram_pct": 0.0
+    }
+   ]
+  },
+  "FR": {
+   "level": "département",
+   "total": 3708123,
+   "matched": 3701991,
+   "areas": [
+    {
+     "name": "Paris",
+     "places": 233523,
+     "website_pct": 65.4,
+     "instagram_pct": 0.74,
+     "official_name": "Paris",
+     "official_code": "75",
+     "population": 2103778,
+     "population_year": 2023,
+     "places_per_1000": 111.0,
+     "websites_per_1000": 72.6
+    },
+    {
+     "name": "Bouches-du-Rhône",
+     "places": 126114,
+     "website_pct": 55.7,
+     "instagram_pct": 0.7,
+     "official_name": "Bouches-du-Rhône",
+     "official_code": "13",
+     "population": 2087658,
+     "population_year": 2023,
+     "places_per_1000": 60.4,
+     "websites_per_1000": 33.7
+    },
+    {
+     "name": "Nord",
+     "places": 119444,
+     "website_pct": 55.4,
+     "instagram_pct": 0.81,
+     "official_name": "Nord",
+     "official_code": "59",
+     "population": 2615635,
+     "population_year": 2023,
+     "places_per_1000": 45.7,
+     "websites_per_1000": 25.3
+    },
+    {
+     "name": "Rhône",
+     "places": 115301,
+     "website_pct": 63.1,
+     "instagram_pct": 0.62,
+     "official_name": "Rhône",
+     "official_code": "69",
+     "population": 1914667,
+     "population_year": 2023,
+     "places_per_1000": 60.2,
+     "websites_per_1000": 38.0
+    },
+    {
+     "name": "Gironde",
+     "places": 111639,
+     "website_pct": 59.7,
+     "instagram_pct": 0.69,
+     "official_name": "Gironde",
+     "official_code": "33",
+     "population": 1690493,
+     "population_year": 2023,
+     "places_per_1000": 66.0,
+     "websites_per_1000": 39.4
+    },
+    {
+     "name": "Alpes-Maritimes",
+     "places": 90880,
+     "website_pct": 55.9,
+     "instagram_pct": 0.58,
+     "official_name": "Alpes-Maritimes",
+     "official_code": "06",
+     "population": 1128418,
+     "population_year": 2023,
+     "places_per_1000": 80.5,
+     "websites_per_1000": 45.0
+    },
+    {
+     "name": "Hérault",
+     "places": 85763,
+     "website_pct": 56.1,
+     "instagram_pct": 0.65,
+     "official_name": "Hérault",
+     "official_code": "34",
+     "population": 1230289,
+     "population_year": 2023,
+     "places_per_1000": 69.7,
+     "websites_per_1000": 39.1
+    },
+    {
+     "name": "Haute-Garonne",
+     "places": 83264,
+     "website_pct": 61.9,
+     "instagram_pct": 0.82,
+     "official_name": "Haute-Garonne",
+     "official_code": "31",
+     "population": 1471468,
+     "population_year": 2023,
+     "places_per_1000": 56.6,
+     "websites_per_1000": 35.0
+    },
+    {
+     "name": "Var",
+     "places": 79108,
+     "website_pct": 54.7,
+     "instagram_pct": 0.6,
+     "official_name": "Var",
+     "official_code": "83",
+     "population": 1119307,
+     "population_year": 2023,
+     "places_per_1000": 70.7,
+     "websites_per_1000": 38.7
+    },
+    {
+     "name": "Loire-Atlantique",
+     "places": 77885,
+     "website_pct": 63.6,
+     "instagram_pct": 0.76,
+     "official_name": "Loire-Atlantique",
+     "official_code": "44",
+     "population": 1487570,
+     "population_year": 2023,
+     "places_per_1000": 52.4,
+     "websites_per_1000": 33.3
+    },
+    {
+     "name": "Isère",
+     "places": 72525,
+     "website_pct": 59.0,
+     "instagram_pct": 0.73,
+     "official_name": "Isère",
+     "official_code": "38",
+     "population": 1298990,
+     "population_year": 2023,
+     "places_per_1000": 55.8,
+     "websites_per_1000": 32.9
+    },
+    {
+     "name": "Hauts-de-Seine",
+     "places": 72497,
+     "website_pct": 62.5,
+     "instagram_pct": 0.79,
+     "official_name": "Hauts-de-Seine",
+     "official_code": "92",
+     "population": 1654712,
+     "population_year": 2023,
+     "places_per_1000": 43.8,
+     "websites_per_1000": 27.4
+    },
+    {
+     "name": "Bas-Rhin",
+     "places": 68995,
+     "website_pct": 60.3,
+     "instagram_pct": 0.82,
+     "official_name": "Bas-Rhin",
+     "official_code": "67",
+     "population": 1163810,
+     "population_year": 2023,
+     "places_per_1000": 59.3,
+     "websites_per_1000": 35.7
+    },
+    {
+     "name": "Pas-de-Calais",
+     "places": 65643,
+     "website_pct": 51.4,
+     "instagram_pct": 1.11,
+     "official_name": "Pas-de-Calais",
+     "official_code": "62",
+     "population": 1457905,
+     "population_year": 2023,
+     "places_per_1000": 45.0,
+     "websites_per_1000": 23.1
+    },
+    {
+     "name": "Seine-et-Marne",
+     "places": 61587,
+     "website_pct": 59.0,
+     "instagram_pct": 1.08,
+     "official_name": "Seine-et-Marne",
+     "official_code": "77",
+     "population": 1468108,
+     "population_year": 2023,
+     "places_per_1000": 41.9,
+     "websites_per_1000": 24.8
+    },
+    {
+     "name": "Haute-Savoie",
+     "places": 60656,
+     "website_pct": 60.3,
+     "instagram_pct": 0.65,
+     "official_name": "Haute-Savoie",
+     "official_code": "74",
+     "population": 861158,
+     "population_year": 2023,
+     "places_per_1000": 70.4,
+     "websites_per_1000": 42.5
+    },
+    {
+     "name": "Yvelines",
+     "places": 60412,
+     "website_pct": 62.7,
+     "instagram_pct": 0.98,
+     "official_name": "Yvelines",
+     "official_code": "78",
+     "population": 1485086,
+     "population_year": 2023,
+     "places_per_1000": 40.7,
+     "websites_per_1000": 25.5
+    },
+    {
+     "name": "Ille-et-Vilaine",
+     "places": 57701,
+     "website_pct": 62.6,
+     "instagram_pct": 0.81,
+     "official_name": "Ille-et-Vilaine",
+     "official_code": "35",
+     "population": 1120666,
+     "population_year": 2023,
+     "places_per_1000": 51.5,
+     "websites_per_1000": 32.3
+    },
+    {
+     "name": "Seine-Maritime",
+     "places": 57120,
+     "website_pct": 55.5,
+     "instagram_pct": 1.14,
+     "official_name": "Seine-Maritime",
+     "official_code": "76",
+     "population": 1260964,
+     "population_year": 2023,
+     "places_per_1000": 45.3,
+     "websites_per_1000": 25.1
+    },
+    {
+     "name": "Seine-Saint-Denis",
+     "places": 56280,
+     "website_pct": 51.9,
+     "instagram_pct": 1.07,
+     "official_name": "Seine-Saint-Denis",
+     "official_code": "93",
+     "population": 1704316,
+     "population_year": 2023,
+     "places_per_1000": 33.0,
+     "websites_per_1000": 17.1
+    },
+    {
+     "name": "Finistère",
+     "places": 51004,
+     "website_pct": 58.9,
+     "instagram_pct": 0.96,
+     "official_name": "Finistère",
+     "official_code": "29",
+     "population": 933455,
+     "population_year": 2023,
+     "places_per_1000": 54.6,
+     "websites_per_1000": 32.2
+    },
+    {
+     "name": "Val-de-Marne",
+     "places": 50993,
+     "website_pct": 56.9,
+     "instagram_pct": 0.95,
+     "official_name": "Val-de-Marne",
+     "official_code": "94",
+     "population": 1426929,
+     "population_year": 2023,
+     "places_per_1000": 35.7,
+     "websites_per_1000": 20.3
+    },
+    {
+     "name": "Essonne",
+     "places": 48952,
+     "website_pct": 58.5,
+     "instagram_pct": 1.13,
+     "official_name": "Essonne",
+     "official_code": "91",
+     "population": 1338485,
+     "population_year": 2023,
+     "places_per_1000": 36.6,
+     "websites_per_1000": 21.4
+    },
+    {
+     "name": "Moselle",
+     "places": 48803,
+     "website_pct": 54.5,
+     "instagram_pct": 0.99,
+     "official_name": "Moselle",
+     "official_code": "57",
+     "population": 1051309,
+     "population_year": 2023,
+     "places_per_1000": 46.4,
+     "websites_per_1000": 25.3
+    },
+    {
+     "name": "Pyrénées-Atlantiques",
+     "places": 48125,
+     "website_pct": 57.7,
+     "instagram_pct": 0.82,
+     "official_name": "Pyrénées-Atlantiques",
+     "official_code": "64",
+     "population": 706564,
+     "population_year": 2023,
+     "places_per_1000": 68.1,
+     "websites_per_1000": 39.3
+    },
+    {
+     "name": "Gard",
+     "places": 47734,
+     "website_pct": 54.7,
+     "instagram_pct": 0.64,
+     "official_name": "Gard",
+     "official_code": "30",
+     "population": 770940,
+     "population_year": 2023,
+     "places_per_1000": 61.9,
+     "websites_per_1000": 33.9
+    },
+    {
+     "name": "Charente-Maritime",
+     "places": 47027,
+     "website_pct": 57.1,
+     "instagram_pct": 0.74,
+     "official_name": "Charente-Maritime",
+     "official_code": "17",
+     "population": 672279,
+     "population_year": 2023,
+     "places_per_1000": 70.0,
+     "websites_per_1000": 40.0
+    },
+    {
+     "name": "Morbihan",
+     "places": 45929,
+     "website_pct": 60.0,
+     "instagram_pct": 0.86,
+     "official_name": "Morbihan",
+     "official_code": "56",
+     "population": 783390,
+     "population_year": 2023,
+     "places_per_1000": 58.6,
+     "websites_per_1000": 35.2
+    },
+    {
+     "name": "Val-d'Oise",
+     "places": 45101,
+     "website_pct": 56.3,
+     "instagram_pct": 1.06,
+     "official_name": "Val-d'Oise",
+     "official_code": "95",
+     "population": 1281653,
+     "population_year": 2023,
+     "places_per_1000": 35.2,
+     "websites_per_1000": 19.8
+    },
+    {
+     "name": "Haut-Rhin",
+     "places": 43632,
+     "website_pct": 59.5,
+     "instagram_pct": 0.75,
+     "official_name": "Haut-Rhin",
+     "official_code": "68",
+     "population": 770738,
+     "population_year": 2023,
+     "places_per_1000": 56.6,
+     "websites_per_1000": 33.7
+    },
+    {
+     "name": "Vaucluse",
+     "places": 43191,
+     "website_pct": 58.0,
+     "instagram_pct": 0.72,
+     "official_name": "Vaucluse",
+     "official_code": "84",
+     "population": 572056,
+     "population_year": 2023,
+     "places_per_1000": 75.5,
+     "websites_per_1000": 43.8
+    },
+    {
+     "name": "Maine-et-Loire",
+     "places": 41560,
+     "website_pct": 62.6,
+     "instagram_pct": 0.85,
+     "official_name": "Maine-et-Loire",
+     "official_code": "49",
+     "population": 833776,
+     "population_year": 2023,
+     "places_per_1000": 49.8,
+     "websites_per_1000": 31.2
+    },
+    {
+     "name": "Vendée",
+     "places": 40685,
+     "website_pct": 61.5,
+     "instagram_pct": 0.83,
+     "official_name": "Vendée",
+     "official_code": "85",
+     "population": 713609,
+     "population_year": 2023,
+     "places_per_1000": 57.0,
+     "websites_per_1000": 35.0
+    },
+    {
+     "name": "Calvados",
+     "places": 40559,
+     "website_pct": 59.2,
+     "instagram_pct": 0.93,
+     "official_name": "Calvados",
+     "official_code": "14",
+     "population": 709441,
+     "population_year": 2023,
+     "places_per_1000": 57.2,
+     "websites_per_1000": 33.8
+    },
+    {
+     "name": "Loire",
+     "places": 39460,
+     "website_pct": 57.3,
+     "instagram_pct": 1.01,
+     "official_name": "Loire",
+     "official_code": "42",
+     "population": 774133,
+     "population_year": 2023,
+     "places_per_1000": 51.0,
+     "websites_per_1000": 29.2
+    },
+    {
+     "name": "Puy-de-Dôme",
+     "places": 36698,
+     "website_pct": 58.6,
+     "instagram_pct": 0.86,
+     "official_name": "Puy-de-Dôme",
+     "official_code": "63",
+     "population": 664453,
+     "population_year": 2023,
+     "places_per_1000": 55.2,
+     "websites_per_1000": 32.4
+    },
+    {
+     "name": "Pyrénées-Orientales",
+     "places": 36338,
+     "website_pct": 53.1,
+     "instagram_pct": 0.66,
+     "official_name": "Pyrénées-Orientales",
+     "official_code": "66",
+     "population": 496855,
+     "population_year": 2023,
+     "places_per_1000": 73.1,
+     "websites_per_1000": 38.8
+    },
+    {
+     "name": "Savoie",
+     "places": 35942,
+     "website_pct": 61.9,
+     "instagram_pct": 0.7,
+     "official_name": "Savoie",
+     "official_code": "73",
+     "population": 448226,
+     "population_year": 2023,
+     "places_per_1000": 80.2,
+     "websites_per_1000": 49.6
+    },
+    {
+     "name": "Oise",
+     "places": 35868,
+     "website_pct": 56.0,
+     "instagram_pct": 1.08,
+     "official_name": "Oise",
+     "official_code": "60",
+     "population": 829899,
+     "population_year": 2023,
+     "places_per_1000": 43.2,
+     "websites_per_1000": 24.2
+    },
+    {
+     "name": "Indre-et-Loire",
+     "places": 35009,
+     "website_pct": 61.1,
+     "instagram_pct": 0.85,
+     "official_name": "Indre-et-Loire",
+     "official_code": "37",
+     "population": 619362,
+     "population_year": 2023,
+     "places_per_1000": 56.5,
+     "websites_per_1000": 34.6
+    },
+    {
+     "name": "Meurthe-et-Moselle",
+     "places": 34848,
+     "website_pct": 56.0,
+     "instagram_pct": 1.02,
+     "official_name": "Meurthe-et-Moselle",
+     "official_code": "54",
+     "population": 732236,
+     "population_year": 2023,
+     "places_per_1000": 47.6,
+     "websites_per_1000": 26.7
+    },
+    {
+     "name": "Côtes-d'Armor",
+     "places": 34461,
+     "website_pct": 56.7,
+     "instagram_pct": 0.88,
+     "official_name": "Côtes-d'Armor",
+     "official_code": "22",
+     "population": 611859,
+     "population_year": 2023,
+     "places_per_1000": 56.3,
+     "websites_per_1000": 31.9
+    },
+    {
+     "name": "Drôme",
+     "places": 34006,
+     "website_pct": 60.0,
+     "instagram_pct": 0.86,
+     "official_name": "Drôme",
+     "official_code": "26",
+     "population": 524207,
+     "population_year": 2023,
+     "places_per_1000": 64.9,
+     "websites_per_1000": 38.9
+    },
+    {
+     "name": "Ain",
+     "places": 33350,
+     "website_pct": 58.6,
+     "instagram_pct": 0.9,
+     "official_name": "Ain",
+     "official_code": "01",
+     "population": 679344,
+     "population_year": 2023,
+     "places_per_1000": 49.1,
+     "websites_per_1000": 28.7
+    },
+    {
+     "name": "Loiret",
+     "places": 32895,
+     "website_pct": 59.2,
+     "instagram_pct": 1.05,
+     "official_name": "Loiret",
+     "official_code": "45",
+     "population": 691268,
+     "population_year": 2023,
+     "places_per_1000": 47.6,
+     "websites_per_1000": 28.2
+    },
+    {
+     "name": "Côte-d'Or",
+     "places": 32450,
+     "website_pct": 60.1,
+     "instagram_pct": 0.96,
+     "official_name": "Côte-d'Or",
+     "official_code": "21",
+     "population": 540100,
+     "population_year": 2023,
+     "places_per_1000": 60.1,
+     "websites_per_1000": 36.1
+    },
+    {
+     "name": "Marne",
+     "places": 31429,
+     "website_pct": 57.9,
+     "instagram_pct": 1.07,
+     "official_name": "Marne",
+     "official_code": "51",
+     "population": 563076,
+     "population_year": 2023,
+     "places_per_1000": 55.8,
+     "websites_per_1000": 32.3
+    },
+    {
+     "name": "Saône-et-Loire",
+     "places": 31134,
+     "website_pct": 57.6,
+     "instagram_pct": 1.03,
+     "official_name": "Saône-et-Loire",
+     "official_code": "71",
+     "population": 550310,
+     "population_year": 2023,
+     "places_per_1000": 56.6,
+     "websites_per_1000": 32.6
+    },
+    {
+     "name": "Landes",
+     "places": 30214,
+     "website_pct": 57.9,
+     "instagram_pct": 0.72,
+     "official_name": "Landes",
+     "official_code": "40",
+     "population": 433570,
+     "population_year": 2023,
+     "places_per_1000": 69.7,
+     "websites_per_1000": 40.3
+    },
+    {
+     "name": "Doubs",
+     "places": 29263,
+     "website_pct": 57.2,
+     "instagram_pct": 0.97,
+     "official_name": "Doubs",
+     "official_code": "25",
+     "population": 547163,
+     "population_year": 2023,
+     "places_per_1000": 53.5,
+     "websites_per_1000": 30.6
+    },
+    {
+     "name": "Dordogne",
+     "places": 27838,
+     "website_pct": 58.7,
+     "instagram_pct": 0.85,
+     "official_name": "Dordogne",
+     "official_code": "24",
+     "population": 417614,
+     "population_year": 2023,
+     "places_per_1000": 66.7,
+     "websites_per_1000": 39.1
+    },
+    {
+     "name": "Eure",
+     "places": 27366,
+     "website_pct": 55.9,
+     "instagram_pct": 1.1,
+     "official_name": "Eure",
+     "official_code": "27",
+     "population": 602714,
+     "population_year": 2023,
+     "places_per_1000": 45.4,
+     "websites_per_1000": 25.4
+    },
+    {
+     "name": "Somme",
+     "places": 27319,
+     "website_pct": 52.3,
+     "instagram_pct": 1.02,
+     "official_name": "Somme",
+     "official_code": "80",
+     "population": 565413,
+     "population_year": 2023,
+     "places_per_1000": 48.3,
+     "websites_per_1000": 25.3
+    },
+    {
+     "name": "Aude",
+     "places": 27317,
+     "website_pct": 53.4,
+     "instagram_pct": 0.71,
+     "official_name": "Aude",
+     "official_code": "11",
+     "population": 379648,
+     "population_year": 2023,
+     "places_per_1000": 72.0,
+     "websites_per_1000": 38.4
+    },
+    {
+     "name": "Manche",
+     "places": 26884,
+     "website_pct": 55.2,
+     "instagram_pct": 0.86,
+     "official_name": "Manche",
+     "official_code": "50",
+     "population": 497522,
+     "population_year": 2023,
+     "places_per_1000": 54.0,
+     "websites_per_1000": 29.8
+    },
+    {
+     "name": "Sarthe",
+     "places": 25017,
+     "website_pct": 60.6,
+     "instagram_pct": 1.2,
+     "official_name": "Sarthe",
+     "official_code": "72",
+     "population": 566733,
+     "population_year": 2023,
+     "places_per_1000": 44.1,
+     "websites_per_1000": 26.8
+    },
+    {
+     "name": "Tarn",
+     "places": 23724,
+     "website_pct": 58.5,
+     "instagram_pct": 0.83,
+     "official_name": "Tarn",
+     "official_code": "81",
+     "population": 397352,
+     "population_year": 2023,
+     "places_per_1000": 59.7,
+     "websites_per_1000": 34.9
+    },
+    {
+     "name": "Vosges",
+     "places": 23469,
+     "website_pct": 55.1,
+     "instagram_pct": 0.92,
+     "official_name": "Vosges",
+     "official_code": "88",
+     "population": 357248,
+     "population_year": 2023,
+     "places_per_1000": 65.7,
+     "websites_per_1000": 36.2
+    },
+    {
+     "name": "Aisne",
+     "places": 22848,
+     "website_pct": 49.7,
+     "instagram_pct": 1.15,
+     "official_name": "Aisne",
+     "official_code": "02",
+     "population": 523342,
+     "population_year": 2023,
+     "places_per_1000": 43.7,
+     "websites_per_1000": 21.7
+    },
+    {
+     "name": "Vienne",
+     "places": 22182,
+     "website_pct": 58.9,
+     "instagram_pct": 0.92,
+     "official_name": "Vienne",
+     "official_code": "86",
+     "population": 438897,
+     "population_year": 2023,
+     "places_per_1000": 50.5,
+     "websites_per_1000": 29.7
+    },
+    {
+     "name": "Ardèche",
+     "places": 21036,
+     "website_pct": 56.8,
+     "instagram_pct": 0.59,
+     "official_name": "Ardèche",
+     "official_code": "07",
+     "population": 334231,
+     "population_year": 2023,
+     "places_per_1000": 62.9,
+     "websites_per_1000": 35.8
+    },
+    {
+     "name": "Eure-et-Loir",
+     "places": 20138,
+     "website_pct": 58.8,
+     "instagram_pct": 1.01,
+     "official_name": "Eure-et-Loir",
+     "official_code": "28",
+     "population": 433129,
+     "population_year": 2023,
+     "places_per_1000": 46.5,
+     "websites_per_1000": 27.4
+    },
+    {
+     "name": "Charente",
+     "places": 20130,
+     "website_pct": 58.5,
+     "instagram_pct": 0.93,
+     "official_name": "Charente",
+     "official_code": "16",
+     "population": 352683,
+     "population_year": 2023,
+     "places_per_1000": 57.1,
+     "websites_per_1000": 33.4
+    },
+    {
+     "name": "Haute-Vienne",
+     "places": 19973,
+     "website_pct": 57.6,
+     "instagram_pct": 1.12,
+     "official_name": "Haute-Vienne",
+     "official_code": "87",
+     "population": 373167,
+     "population_year": 2023,
+     "places_per_1000": 53.5,
+     "websites_per_1000": 30.8
+    },
+    {
+     "name": "Lot-et-Garonne",
+     "places": 18923,
+     "website_pct": 59.3,
+     "instagram_pct": 1.07,
+     "official_name": "Lot-et-Garonne",
+     "official_code": "47",
+     "population": 333602,
+     "population_year": 2023,
+     "places_per_1000": 56.7,
+     "websites_per_1000": 33.6
+    },
+    {
+     "name": "Yonne",
+     "places": 18745,
+     "website_pct": 56.2,
+     "instagram_pct": 1.0,
+     "official_name": "Yonne",
+     "official_code": "89",
+     "population": 332267,
+     "population_year": 2023,
+     "places_per_1000": 56.4,
+     "websites_per_1000": 31.7
+    },
+    {
+     "name": "Allier",
+     "places": 18500,
+     "website_pct": 54.7,
+     "instagram_pct": 1.12,
+     "official_name": "Allier",
+     "official_code": "03",
+     "population": 333298,
+     "population_year": 2023,
+     "places_per_1000": 55.5,
+     "websites_per_1000": 30.3
+    },
+    {
+     "name": "Deux-Sèvres",
+     "places": 18327,
+     "website_pct": 58.4,
+     "instagram_pct": 0.91,
+     "official_name": "Deux-Sèvres",
+     "official_code": "79",
+     "population": 375229,
+     "population_year": 2023,
+     "places_per_1000": 48.8,
+     "websites_per_1000": 28.5
+    },
+    {
+     "name": "Loir-et-Cher",
+     "places": 18286,
+     "website_pct": 57.3,
+     "instagram_pct": 0.97,
+     "official_name": "Loir-et-Cher",
+     "official_code": "41",
+     "population": 328543,
+     "population_year": 2023,
+     "places_per_1000": 55.7,
+     "websites_per_1000": 31.9
+    },
+    {
+     "name": "Aveyron",
+     "places": 17024,
+     "website_pct": 59.2,
+     "instagram_pct": 0.95,
+     "official_name": "Aveyron",
+     "official_code": "12",
+     "population": 279609,
+     "population_year": 2023,
+     "places_per_1000": 60.9,
+     "websites_per_1000": 36.0
+    },
+    {
+     "name": "Hautes-Pyrénées",
+     "places": 16897,
+     "website_pct": 54.4,
+     "instagram_pct": 0.83,
+     "official_name": "Hautes-Pyrénées",
+     "official_code": "65",
+     "population": 231349,
+     "population_year": 2023,
+     "places_per_1000": 73.0,
+     "websites_per_1000": 39.8
+    },
+    {
+     "name": "Jura",
+     "places": 16771,
+     "website_pct": 57.3,
+     "instagram_pct": 0.98,
+     "official_name": "Jura",
+     "official_code": "39",
+     "population": 257973,
+     "population_year": 2023,
+     "places_per_1000": 65.0,
+     "websites_per_1000": 37.3
+    },
+    {
+     "name": "Aube",
+     "places": 16213,
+     "website_pct": 56.2,
+     "instagram_pct": 1.02,
+     "official_name": "Aube",
+     "official_code": "10",
+     "population": 310447,
+     "population_year": 2023,
+     "places_per_1000": 52.2,
+     "websites_per_1000": 29.3
+    },
+    {
+     "name": "Cher",
+     "places": 15590,
+     "website_pct": 56.6,
+     "instagram_pct": 1.15,
+     "official_name": "Cher",
+     "official_code": "18",
+     "population": 298660,
+     "population_year": 2023,
+     "places_per_1000": 52.2,
+     "websites_per_1000": 29.6
+    },
+    {
+     "name": "Tarn-et-Garonne",
+     "places": 15253,
+     "website_pct": 56.4,
+     "instagram_pct": 0.97,
+     "official_name": "Tarn-et-Garonne",
+     "official_code": "82",
+     "population": 265817,
+     "population_year": 2023,
+     "places_per_1000": 57.4,
+     "websites_per_1000": 32.4
+    },
+    {
+     "name": "Corrèze",
+     "places": 14497,
+     "website_pct": 57.2,
+     "instagram_pct": 1.04,
+     "official_name": "Corrèze",
+     "official_code": "19",
+     "population": 240826,
+     "population_year": 2023,
+     "places_per_1000": 60.2,
+     "websites_per_1000": 34.4
+    },
+    {
+     "name": "Mayenne",
+     "places": 14215,
+     "website_pct": 59.8,
+     "instagram_pct": 0.97,
+     "official_name": "Mayenne",
+     "official_code": "53",
+     "population": 305468,
+     "population_year": 2023,
+     "places_per_1000": 46.5,
+     "websites_per_1000": 27.8
+    },
+    {
+     "name": "Corse-du-Sud",
+     "places": 13777,
+     "website_pct": 52.5,
+     "instagram_pct": 0.77,
+     "official_name": "Corse-du-Sud",
+     "official_code": "2A",
+     "population": 168306,
+     "population_year": 2023,
+     "places_per_1000": 81.9,
+     "websites_per_1000": 43.0
+    },
+    {
+     "name": "Haute-Corse",
+     "places": 13440,
+     "website_pct": 48.7,
+     "instagram_pct": 0.83,
+     "official_name": "Haute-Corse",
+     "official_code": "2B",
+     "population": 187180,
+     "population_year": 2023,
+     "places_per_1000": 71.8,
+     "websites_per_1000": 35.0
+    },
+    {
+     "name": "Orne",
+     "places": 13393,
+     "website_pct": 55.2,
+     "instagram_pct": 1.03,
+     "official_name": "Orne",
+     "official_code": "61",
+     "population": 275201,
+     "population_year": 2023,
+     "places_per_1000": 48.7,
+     "websites_per_1000": 26.8
+    },
+    {
+     "name": "Hautes-Alpes",
+     "places": 13261,
+     "website_pct": 56.7,
+     "instagram_pct": 0.63,
+     "official_name": "Hautes-Alpes",
+     "official_code": "05",
+     "population": 143467,
+     "population_year": 2023,
+     "places_per_1000": 92.4,
+     "websites_per_1000": 52.4
+    },
+    {
+     "name": "Ardennes",
+     "places": 13074,
+     "website_pct": 49.2,
+     "instagram_pct": 1.14,
+     "official_name": "Ardennes",
+     "official_code": "08",
+     "population": 265893,
+     "population_year": 2023,
+     "places_per_1000": 49.2,
+     "websites_per_1000": 24.2
+    },
+    {
+     "name": "Alpes-de-Haute-Provence",
+     "places": 12793,
+     "website_pct": 56.4,
+     "instagram_pct": 0.69,
+     "official_name": "Alpes-de-Haute-Provence",
+     "official_code": "04",
+     "population": 168054,
+     "population_year": 2023,
+     "places_per_1000": 76.1,
+     "websites_per_1000": 43.0
+    },
+    {
+     "name": "Haute-Loire",
+     "places": 12661,
+     "website_pct": 56.3,
+     "instagram_pct": 0.84,
+     "official_name": "Haute-Loire",
+     "official_code": "43",
+     "population": 228654,
+     "population_year": 2023,
+     "places_per_1000": 55.4,
+     "websites_per_1000": 31.2
+    },
+    {
+     "name": "Haute-Saône",
+     "places": 11723,
+     "website_pct": 53.5,
+     "instagram_pct": 1.09,
+     "official_name": "Haute-Saône",
+     "official_code": "70",
+     "population": 233185,
+     "population_year": 2023,
+     "places_per_1000": 50.3,
+     "websites_per_1000": 26.9
+    },
+    {
+     "name": "Lot",
+     "places": 11665,
+     "website_pct": 59.2,
+     "instagram_pct": 1.27,
+     "official_name": "Lot",
+     "official_code": "46",
+     "population": 176473,
+     "population_year": 2023,
+     "places_per_1000": 66.1,
+     "websites_per_1000": 39.1
+    },
+    {
+     "name": "Gers",
+     "places": 11425,
+     "website_pct": 58.8,
+     "instagram_pct": 0.93,
+     "official_name": "Gers",
+     "official_code": "32",
+     "population": 192645,
+     "population_year": 2023,
+     "places_per_1000": 59.3,
+     "websites_per_1000": 34.9
+    },
+    {
+     "name": "Indre",
+     "places": 11399,
+     "website_pct": 55.3,
+     "instagram_pct": 1.18,
+     "official_name": "Indre",
+     "official_code": "36",
+     "population": 216069,
+     "population_year": 2023,
+     "places_per_1000": 52.8,
+     "websites_per_1000": 29.2
+    },
+    {
+     "name": "Nièvre",
+     "places": 11185,
+     "website_pct": 56.7,
+     "instagram_pct": 1.03,
+     "official_name": "Nièvre",
+     "official_code": "58",
+     "population": 201417,
+     "population_year": 2023,
+     "places_per_1000": 55.5,
+     "websites_per_1000": 31.5
+    },
+    {
+     "name": "Ariège",
+     "places": 9968,
+     "website_pct": 56.1,
+     "instagram_pct": 1.01,
+     "official_name": "Ariège",
+     "official_code": "09",
+     "population": 155722,
+     "population_year": 2023,
+     "places_per_1000": 64.0,
+     "websites_per_1000": 35.9
+    },
+    {
+     "name": "Meuse",
+     "places": 8735,
+     "website_pct": 51.3,
+     "instagram_pct": 1.17,
+     "official_name": "Meuse",
+     "official_code": "55",
+     "population": 180290,
+     "population_year": 2023,
+     "places_per_1000": 48.4,
+     "websites_per_1000": 24.9
+    },
+    {
+     "name": "Cantal",
+     "places": 8728,
+     "website_pct": 55.5,
+     "instagram_pct": 0.97,
+     "official_name": "Cantal",
+     "official_code": "15",
+     "population": 144196,
+     "population_year": 2023,
+     "places_per_1000": 60.5,
+     "websites_per_1000": 33.6
+    },
+    {
+     "name": "Haute-Marne",
+     "places": 8651,
+     "website_pct": 53.8,
+     "instagram_pct": 1.32,
+     "official_name": "Haute-Marne",
+     "official_code": "52",
+     "population": 168331,
+     "population_year": 2023,
+     "places_per_1000": 51.4,
+     "websites_per_1000": 27.6
+    },
+    {
+     "name": "Creuse",
+     "places": 6941,
+     "website_pct": 52.9,
+     "instagram_pct": 0.97,
+     "official_name": "Creuse",
+     "official_code": "23",
+     "population": 115527,
+     "population_year": 2023,
+     "places_per_1000": 60.1,
+     "websites_per_1000": 31.8
+    },
+    {
+     "name": "Territoire-de-Belfort",
+     "places": 6686,
+     "website_pct": 56.2,
+     "instagram_pct": 1.14,
+     "official_name": "Territoire de Belfort",
+     "official_code": "90",
+     "population": 140255,
+     "population_year": 2023,
+     "places_per_1000": 47.7,
+     "websites_per_1000": 26.8
+    },
+    {
+     "name": "Lozère",
+     "places": 5007,
+     "website_pct": 57.9,
+     "instagram_pct": 0.84,
+     "official_name": "Lozère",
+     "official_code": "48",
+     "population": 76486,
+     "population_year": 2023,
+     "places_per_1000": 65.5,
+     "websites_per_1000": 37.9
+    }
+   ]
+  },
+  "FR_REG": {
+   "level": "région",
+   "total": 3708123,
+   "matched": 3701996,
+   "areas": [
+    {
+     "name": "Île-de-France",
+     "places": 629521,
+     "website_pct": 61.1,
+     "instagram_pct": 0.9,
+     "official_name": "Île-de-France",
+     "official_code": "11",
+     "population": 12463067,
+     "population_year": 2023,
+     "places_per_1000": 50.5,
+     "websites_per_1000": 30.9
+    },
+    {
+     "name": "Auvergne-Rhône-Alpes",
+     "places": 488831,
+     "website_pct": 59.8,
+     "instagram_pct": 0.76,
+     "official_name": "Auvergne-Rhône-Alpes",
+     "official_code": "84",
+     "population": 8205557,
+     "population_year": 2023,
+     "places_per_1000": 59.6,
+     "websites_per_1000": 35.6
+    },
+    {
+     "name": "Occitanie",
+     "places": 391378,
+     "website_pct": 57.1,
+     "instagram_pct": 0.77,
+     "official_name": "Occitanie",
+     "official_code": "76",
+     "population": 6124653,
+     "population_year": 2023,
+     "places_per_1000": 63.9,
+     "websites_per_1000": 36.5
+    },
+    {
+     "name": "Nouvelle-Aquitaine",
+     "places": 385504,
+     "website_pct": 58.4,
+     "instagram_pct": 0.82,
+     "official_name": "Nouvelle-Aquitaine",
+     "official_code": "75",
+     "population": 6150451,
+     "population_year": 2023,
+     "places_per_1000": 62.7,
+     "websites_per_1000": 36.6
+    },
+    {
+     "name": "Provence-Alpes-Côte d'Azur",
+     "places": 365553,
+     "website_pct": 55.9,
+     "instagram_pct": 0.65,
+     "official_name": "Provence-Alpes-Côte d'Azur",
+     "official_code": "93",
+     "population": 5218960,
+     "population_year": 2023,
+     "places_per_1000": 70.0,
+     "websites_per_1000": 39.1
+    },
+    {
+     "name": "Grand Est",
+     "places": 297858,
+     "website_pct": 56.9,
+     "instagram_pct": 0.95,
+     "official_name": "Grand Est",
+     "official_code": "44",
+     "population": 5563378,
+     "population_year": 2023,
+     "places_per_1000": 53.5,
+     "websites_per_1000": 30.5
+    },
+    {
+     "name": "Hauts-de-France",
+     "places": 271142,
+     "website_pct": 53.7,
+     "instagram_pct": 0.97,
+     "official_name": "Hauts-de-France",
+     "official_code": "32",
+     "population": 5992194,
+     "population_year": 2023,
+     "places_per_1000": 45.2,
+     "websites_per_1000": 24.3
+    },
+    {
+     "name": "Pays de la Loire",
+     "places": 199391,
+     "website_pct": 62.3,
+     "instagram_pct": 0.86,
+     "official_name": "Pays de la Loire",
+     "official_code": "52",
+     "population": 3907156,
+     "population_year": 2023,
+     "places_per_1000": 51.0,
+     "websites_per_1000": 31.8
+    },
+    {
+     "name": "Bretagne",
+     "places": 189070,
+     "website_pct": 59.9,
+     "instagram_pct": 0.88,
+     "official_name": "Bretagne",
+     "official_code": "53",
+     "population": 3449370,
+     "population_year": 2023,
+     "places_per_1000": 54.8,
+     "websites_per_1000": 32.8
+    },
+    {
+     "name": "Normandie",
+     "places": 165291,
+     "website_pct": 56.4,
+     "instagram_pct": 1.03,
+     "official_name": "Normandie",
+     "official_code": "28",
+     "population": 3345842,
+     "population_year": 2023,
+     "places_per_1000": 49.4,
+     "websites_per_1000": 27.9
+    },
+    {
+     "name": "Bourgogne-Franche-Comté",
+     "places": 157955,
+     "website_pct": 57.4,
+     "instagram_pct": 1.01,
+     "official_name": "Bourgogne-Franche-Comté",
+     "official_code": "27",
+     "population": 2802670,
+     "population_year": 2023,
+     "places_per_1000": 56.4,
+     "websites_per_1000": 32.4
+    },
+    {
+     "name": "Centre-Val de Loire",
+     "places": 133316,
+     "website_pct": 58.8,
+     "instagram_pct": 1.0,
+     "official_name": "Centre-Val de Loire",
+     "official_code": "24",
+     "population": 2587031,
+     "population_year": 2023,
+     "places_per_1000": 51.5,
+     "websites_per_1000": 30.3
+    },
+    {
+     "name": "Corse",
+     "places": 27186,
+     "website_pct": 50.6,
+     "instagram_pct": 0.8,
+     "official_name": "Corse",
+     "official_code": "94",
+     "population": 355486,
+     "population_year": 2023,
+     "places_per_1000": 76.5,
+     "websites_per_1000": 38.7
+    }
+   ]
+  },
+  "DE": {
+   "level": "Land",
+   "total": 4863410,
+   "matched": 4860063,
+   "areas": [
+    {
+     "name": "Nordrhein-Westfalen",
+     "places": 993276,
+     "website_pct": 74.2,
+     "instagram_pct": 1.02
+    },
+    {
+     "name": "Bayern",
+     "places": 842409,
+     "website_pct": 74.4,
+     "instagram_pct": 0.72
+    },
+    {
+     "name": "Baden-Württemberg",
+     "places": 646123,
+     "website_pct": 75.0,
+     "instagram_pct": 1.26
+    },
+    {
+     "name": "Niedersachsen",
+     "places": 450980,
+     "website_pct": 73.3,
+     "instagram_pct": 1.03
+    },
+    {
+     "name": "Hessen",
+     "places": 375624,
+     "website_pct": 72.9,
+     "instagram_pct": 0.91
+    },
+    {
+     "name": "Rheinland-Pfalz",
+     "places": 242212,
+     "website_pct": 72.0,
+     "instagram_pct": 0.91
+    },
+    {
+     "name": "Berlin",
+     "places": 230294,
+     "website_pct": 74.5,
+     "instagram_pct": 1.15
+    },
+    {
+     "name": "Sachsen",
+     "places": 222137,
+     "website_pct": 73.2,
+     "instagram_pct": 0.86
+    },
+    {
+     "name": "Schleswig-Holstein",
+     "places": 181604,
+     "website_pct": 74.6,
+     "instagram_pct": 1.02
+    },
+    {
+     "name": "Brandenburg",
+     "places": 132530,
+     "website_pct": 69.7,
+     "instagram_pct": 1.32
+    },
+    {
+     "name": "Hamburg",
+     "places": 130700,
+     "website_pct": 77.1,
+     "instagram_pct": 0.94
+    },
+    {
+     "name": "Thüringen",
+     "places": 113875,
+     "website_pct": 69.0,
+     "instagram_pct": 0.89
+    },
+    {
+     "name": "Sachsen-Anhalt",
+     "places": 104573,
+     "website_pct": 67.4,
+     "instagram_pct": 1.29
+    },
+    {
+     "name": "Mecklenburg-Vorpommern",
+     "places": 99976,
+     "website_pct": 70.2,
+     "instagram_pct": 1.15
+    },
+    {
+     "name": "Saarland",
+     "places": 55069,
+     "website_pct": 68.1,
+     "instagram_pct": 0.78
+    },
+    {
+     "name": "Bremen",
+     "places": 38681,
+     "website_pct": 74.3,
+     "instagram_pct": 1.1
+    }
+   ]
+  },
+  "MX": {
+   "level": "estado",
+   "total": 3270553,
+   "matched": 3262077,
+   "areas": [
+    {
+     "name": "Ciudad de México",
+     "places": 329008,
+     "website_pct": 38.0,
+     "instagram_pct": 0.55
+    },
+    {
+     "name": "Jalisco",
+     "places": 288934,
+     "website_pct": 30.1,
+     "instagram_pct": 0.48
+    },
+    {
+     "name": "Estado de México",
+     "places": 278730,
+     "website_pct": 26.9,
+     "instagram_pct": 0.45
+    },
+    {
+     "name": "Nuevo León",
+     "places": 216251,
+     "website_pct": 30.6,
+     "instagram_pct": 0.47
+    },
+    {
+     "name": "Veracruz",
+     "places": 155163,
+     "website_pct": 23.0,
+     "instagram_pct": 0.43
+    },
+    {
+     "name": "Baja California",
+     "places": 140025,
+     "website_pct": 29.0,
+     "instagram_pct": 0.78
+    },
+    {
+     "name": "Puebla",
+     "places": 137664,
+     "website_pct": 26.8,
+     "instagram_pct": 0.47
+    },
+    {
+     "name": "Guanajuato",
+     "places": 137338,
+     "website_pct": 25.9,
+     "instagram_pct": 0.56
+    },
+    {
+     "name": "Tamaulipas",
+     "places": 113315,
+     "website_pct": 20.9,
+     "instagram_pct": 0.66
+    },
+    {
+     "name": "Chihuahua",
+     "places": 107672,
+     "website_pct": 24.8,
+     "instagram_pct": 0.67
+    },
+    {
+     "name": "Coahuila",
+     "places": 107516,
+     "website_pct": 22.0,
+     "instagram_pct": 0.56
+    },
+    {
+     "name": "Michoacán",
+     "places": 102631,
+     "website_pct": 21.8,
+     "instagram_pct": 0.54
+    },
+    {
+     "name": "Yucatán",
+     "places": 92236,
+     "website_pct": 29.0,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Sonora",
+     "places": 91180,
+     "website_pct": 27.1,
+     "instagram_pct": 0.78
+    },
+    {
+     "name": "Sinaloa",
+     "places": 81207,
+     "website_pct": 27.3,
+     "instagram_pct": 0.66
+    },
+    {
+     "name": "Querétaro",
+     "places": 80558,
+     "website_pct": 34.3,
+     "instagram_pct": 0.43
+    },
+    {
+     "name": "Chiapas",
+     "places": 78429,
+     "website_pct": 21.0,
+     "instagram_pct": 0.34
+    },
+    {
+     "name": "Oaxaca",
+     "places": 76438,
+     "website_pct": 21.2,
+     "instagram_pct": 0.4
+    },
+    {
+     "name": "Quintana Roo",
+     "places": 71538,
+     "website_pct": 38.3,
+     "instagram_pct": 0.56
+    },
+    {
+     "name": "Hidalgo",
+     "places": 70950,
+     "website_pct": 21.6,
+     "instagram_pct": 0.38
+    },
+    {
+     "name": "San Luis Potosí",
+     "places": 69145,
+     "website_pct": 24.0,
+     "instagram_pct": 0.55
+    },
+    {
+     "name": "Guerrero",
+     "places": 54749,
+     "website_pct": 21.4,
+     "instagram_pct": 0.5
+    },
+    {
+     "name": "Morelos",
+     "places": 52426,
+     "website_pct": 26.0,
+     "instagram_pct": 0.48
+    },
+    {
+     "name": "Aguascalientes",
+     "places": 48859,
+     "website_pct": 25.5,
+     "instagram_pct": 0.47
+    },
+    {
+     "name": "Durango",
+     "places": 43449,
+     "website_pct": 19.9,
+     "instagram_pct": 0.69
+    },
+    {
+     "name": "Tabasco",
+     "places": 42634,
+     "website_pct": 24.2,
+     "instagram_pct": 0.36
+    },
+    {
+     "name": "Nayarit",
+     "places": 41624,
+     "website_pct": 22.6,
+     "instagram_pct": 0.49
+    },
+    {
+     "name": "Baja California Sur",
+     "places": 36766,
+     "website_pct": 30.5,
+     "instagram_pct": 0.41
+    },
+    {
+     "name": "Zacatecas",
+     "places": 32149,
+     "website_pct": 19.6,
+     "instagram_pct": 0.64
+    },
+    {
+     "name": "Colima",
+     "places": 29705,
+     "website_pct": 24.7,
+     "instagram_pct": 0.42
+    },
+    {
+     "name": "Tlaxcala",
+     "places": 27632,
+     "website_pct": 20.3,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Campeche",
+     "places": 26156,
+     "website_pct": 22.3,
+     "instagram_pct": 0.34
+    }
+   ]
+  },
+  "BR": {
+   "level": "estado",
+   "total": 5887951,
+   "matched": 5877111,
+   "areas": [
+    {
+     "name": "São Paulo",
+     "places": 1733625,
+     "website_pct": 40.1,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Minas Gerais",
+     "places": 561055,
+     "website_pct": 36.4,
+     "instagram_pct": 0.23
+    },
+    {
+     "name": "Rio Grande do Sul",
+     "places": 495945,
+     "website_pct": 34.7,
+     "instagram_pct": 0.15
+    },
+    {
+     "name": "Rio de Janeiro",
+     "places": 490594,
+     "website_pct": 37.6,
+     "instagram_pct": 0.6
+    },
+    {
+     "name": "Paraná",
+     "places": 472436,
+     "website_pct": 36.9,
+     "instagram_pct": 0.23
+    },
+    {
+     "name": "Santa Catarina",
+     "places": 361560,
+     "website_pct": 40.7,
+     "instagram_pct": 0.22
+    },
+    {
+     "name": "Bahia",
+     "places": 196879,
+     "website_pct": 34.5,
+     "instagram_pct": 0.26
+    },
+    {
+     "name": "Ceará",
+     "places": 189992,
+     "website_pct": 31.5,
+     "instagram_pct": 0.35
+    },
+    {
+     "name": "Goiás",
+     "places": 181872,
+     "website_pct": 38.1,
+     "instagram_pct": 0.41
+    },
+    {
+     "name": "Pernambuco",
+     "places": 154083,
+     "website_pct": 32.8,
+     "instagram_pct": 0.25
+    },
+    {
+     "name": "Pará",
+     "places": 121497,
+     "website_pct": 28.1,
+     "instagram_pct": 0.19
+    },
+    {
+     "name": "Espírito Santo",
+     "places": 111676,
+     "website_pct": 36.2,
+     "instagram_pct": 0.3
+    },
+    {
+     "name": "Mato Grosso",
+     "places": 102013,
+     "website_pct": 34.0,
+     "instagram_pct": 0.38
+    },
+    {
+     "name": "Mato Grosso do Sul",
+     "places": 99372,
+     "website_pct": 32.3,
+     "instagram_pct": 0.2
+    },
+    {
+     "name": "Distrito Federal",
+     "places": 83545,
+     "website_pct": 47.9,
+     "instagram_pct": 2.76
+    },
+    {
+     "name": "Rio Grande do Norte",
+     "places": 73777,
+     "website_pct": 31.6,
+     "instagram_pct": 0.3
+    },
+    {
+     "name": "Amazonas",
+     "places": 71366,
+     "website_pct": 30.5,
+     "instagram_pct": 0.26
+    },
+    {
+     "name": "Paraíba",
+     "places": 70720,
+     "website_pct": 32.5,
+     "instagram_pct": 0.28
+    },
+    {
+     "name": "Maranhão",
+     "places": 67537,
+     "website_pct": 30.3,
+     "instagram_pct": 0.25
+    },
+    {
+     "name": "Piauí",
+     "places": 46755,
+     "website_pct": 30.0,
+     "instagram_pct": 0.26
+    },
+    {
+     "name": "Alagoas",
+     "places": 45615,
+     "website_pct": 33.0,
+     "instagram_pct": 0.38
+    },
+    {
+     "name": "Rondônia",
+     "places": 43513,
+     "website_pct": 30.8,
+     "instagram_pct": 0.16
+    },
+    {
+     "name": "Sergipe",
+     "places": 34632,
+     "website_pct": 34.8,
+     "instagram_pct": 0.51
+    },
+    {
+     "name": "Tocantins",
+     "places": 27571,
+     "website_pct": 34.1,
+     "instagram_pct": 0.49
+    },
+    {
+     "name": "Amapá",
+     "places": 15386,
+     "website_pct": 28.0,
+     "instagram_pct": 0.18
+    },
+    {
+     "name": "Acre",
+     "places": 12486,
+     "website_pct": 28.1,
+     "instagram_pct": 0.32
+    },
+    {
+     "name": "Roraima",
+     "places": 11609,
+     "website_pct": 29.7,
+     "instagram_pct": 0.34
+    }
+   ]
+  },
+  "ID": {
+   "level": "provinsi",
+   "total": 2138698,
+   "matched": 2126640,
+   "areas": [
+    {
+     "name": "Jawa Barat",
+     "places": 384787,
+     "website_pct": 26.3,
+     "instagram_pct": 0.29
+    },
+    {
+     "name": "Jawa Timur",
+     "places": 288498,
+     "website_pct": 25.3,
+     "instagram_pct": 0.35
+    },
+    {
+     "name": "Jawa Tengah",
+     "places": 237652,
+     "website_pct": 23.0,
+     "instagram_pct": 0.34
+    },
+    {
+     "name": "Daerah Khusus Ibukota Jakarta",
+     "places": 229458,
+     "website_pct": 33.9,
+     "instagram_pct": 0.54
+    },
+    {
+     "name": "Bali",
+     "places": 123606,
+     "website_pct": 31.8,
+     "instagram_pct": 0.33
+    },
+    {
+     "name": "Banten",
+     "places": 100836,
+     "website_pct": 28.2,
+     "instagram_pct": 0.32
+    },
+    {
+     "name": "Sumatera Utara",
+     "places": 91494,
+     "website_pct": 18.5,
+     "instagram_pct": 0.27
+    },
+    {
+     "name": "Sulawesi Selatan",
+     "places": 77418,
+     "website_pct": 19.2,
+     "instagram_pct": 0.26
+    },
+    {
+     "name": "Daerah Istimewa Yogyakarta",
+     "places": 70801,
+     "website_pct": 30.8,
+     "instagram_pct": 0.33
+    },
+    {
+     "name": "Sulawesi Utara",
+     "places": 44942,
+     "website_pct": 11.4,
+     "instagram_pct": 0.12
+    },
+    {
+     "name": "Riau",
+     "places": 43744,
+     "website_pct": 19.7,
+     "instagram_pct": 0.27
+    },
+    {
+     "name": "Kalimantan Timur",
+     "places": 40182,
+     "website_pct": 20.9,
+     "instagram_pct": 0.25
+    },
+    {
+     "name": "Sumatera Selatan",
+     "places": 38283,
+     "website_pct": 19.5,
+     "instagram_pct": 0.21
+    },
+    {
+     "name": "Sumatera Barat",
+     "places": 33615,
+     "website_pct": 17.6,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Lampung",
+     "places": 32334,
+     "website_pct": 22.0,
+     "instagram_pct": 0.3
+    },
+    {
+     "name": "Nusa Tenggara Barat",
+     "places": 31771,
+     "website_pct": 20.7,
+     "instagram_pct": 0.26
+    },
+    {
+     "name": "Kepulauan Riau",
+     "places": 26372,
+     "website_pct": 25.2,
+     "instagram_pct": 0.27
+    },
+    {
+     "name": "Kalimantan Barat",
+     "places": 25725,
+     "website_pct": 20.3,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Aceh",
+     "places": 24937,
+     "website_pct": 16.5,
+     "instagram_pct": 0.03
+    },
+    {
+     "name": "Kalimantan Selatan",
+     "places": 22049,
+     "website_pct": 20.6,
+     "instagram_pct": 0.39
+    },
+    {
+     "name": "Sulawesi Tengah",
+     "places": 20404,
+     "website_pct": 13.6,
+     "instagram_pct": 0.22
+    },
+    {
+     "name": "Nusa Tenggara Timur",
+     "places": 20385,
+     "website_pct": 13.7,
+     "instagram_pct": 0.37
+    },
+    {
+     "name": "Jambi",
+     "places": 16628,
+     "website_pct": 18.8,
+     "instagram_pct": 0.29
+    },
+    {
+     "name": "Sulawesi Tenggara",
+     "places": 13746,
+     "website_pct": 15.5,
+     "instagram_pct": 0.3
+    },
+    {
+     "name": "Kalimantan Tengah",
+     "places": 13259,
+     "website_pct": 18.3,
+     "instagram_pct": 0.35
+    },
+    {
+     "name": "Gorontalo",
+     "places": 12499,
+     "website_pct": 10.5,
+     "instagram_pct": 0.16
+    },
+    {
+     "name": "Bengkulu",
+     "places": 10103,
+     "website_pct": 19.2,
+     "instagram_pct": 0.34
+    },
+    {
+     "name": "Maluku",
+     "places": 7661,
+     "website_pct": 12.6,
+     "instagram_pct": 0.31
+    },
+    {
+     "name": "Papua",
+     "places": 7577,
+     "website_pct": 15.5,
+     "instagram_pct": 0.36
+    },
+    {
+     "name": "Kepulauan Bangka Belitung",
+     "places": 7459,
+     "website_pct": 18.5,
+     "instagram_pct": 0.42
+    },
+    {
+     "name": "Sulawesi Barat",
+     "places": 6735,
+     "website_pct": 11.9,
+     "instagram_pct": 0.3
+    },
+    {
+     "name": "Maluku Utara",
+     "places": 5425,
+     "website_pct": 10.0,
+     "instagram_pct": 0.28
+    },
+    {
+     "name": "Kalimantan Utara",
+     "places": 3991,
+     "website_pct": 16.2,
+     "instagram_pct": 0.38
+    },
+    {
+     "name": "Papua Barat Daya",
+     "places": 3791,
+     "website_pct": 14.2,
+     "instagram_pct": 0.29
+    },
+    {
+     "name": "Papua Tengah",
+     "places": 3041,
+     "website_pct": 13.9,
+     "instagram_pct": 0.43
+    },
+    {
+     "name": "Papua Barat",
+     "places": 2997,
+     "website_pct": 13.4,
+     "instagram_pct": 0.4
+    },
+    {
+     "name": "Papua Selatan",
+     "places": 1841,
+     "website_pct": 13.1,
+     "instagram_pct": 0.65
+    },
+    {
+     "name": "Papua Pegunungan",
+     "places": 594,
+     "website_pct": 16.7,
+     "instagram_pct": 0.67
+    }
+   ]
+  }
+ },
+ "cities": {
+  "nyc": {
+   "places": 488504,
+   "areas": [
+    {
+     "name": "Manhattan",
+     "places": 237348,
+     "website_pct": 68.7,
+     "instagram_pct": 0.52,
+     "population": 1585873,
+     "population_year": 2010,
+     "places_per_1000": 149.7,
+     "websites_per_1000": 102.9
+    },
+    {
+     "name": "Brooklyn",
+     "places": 103717,
+     "website_pct": 67.3,
+     "instagram_pct": 0.77,
+     "population": 2552911,
+     "population_year": 2010,
+     "places_per_1000": 40.6,
+     "websites_per_1000": 27.4
+    },
+    {
+     "name": "Queens",
+     "places": 84439,
+     "website_pct": 62.8,
+     "instagram_pct": 0.66,
+     "population": 2250002,
+     "population_year": 2010,
+     "places_per_1000": 37.5,
+     "websites_per_1000": 23.6
+    },
+    {
+     "name": "Bronx",
+     "places": 42132,
+     "website_pct": 53.2,
+     "instagram_pct": 0.5,
+     "population": 1385108,
+     "population_year": 2010,
+     "places_per_1000": 30.4,
+     "websites_per_1000": 16.2
+    },
+    {
+     "name": "Staten Island",
+     "places": 20868,
+     "website_pct": 60.9,
+     "instagram_pct": 0.54,
+     "population": 468730,
+     "population_year": 2010,
+     "places_per_1000": 44.5,
+     "websites_per_1000": 27.1
+    }
+   ]
+  },
+  "toronto": {
+   "places": 132195,
+   "areas": [
+    {
+     "name": "Spadina-Fort York",
+     "places": 15620,
+     "website_pct": 84.5,
+     "instagram_pct": 1.46,
+     "population": 135400,
+     "population_year": 2021,
+     "places_per_1000": 115.4,
+     "websites_per_1000": 97.5
+    },
+    {
+     "name": "University-Rosedale",
+     "places": 10670,
+     "website_pct": 84.8,
+     "instagram_pct": 1.32,
+     "population": 102385,
+     "population_year": 2021,
+     "places_per_1000": 104.2,
+     "websites_per_1000": 88.4
+    },
+    {
+     "name": "Toronto Centre",
+     "places": 10343,
+     "website_pct": 84.9,
+     "instagram_pct": 1.29,
+     "population": 116930,
+     "population_year": 2021,
+     "places_per_1000": 88.5,
+     "websites_per_1000": 75.1
+    },
+    {
+     "name": "Etobicoke-Lakeshore",
+     "places": 7631,
+     "website_pct": 85.0,
+     "instagram_pct": 1.27,
+     "population": 139920,
+     "population_year": 2021,
+     "places_per_1000": 54.5,
+     "websites_per_1000": 46.3
+    },
+    {
+     "name": "York Centre",
+     "places": 6378,
+     "website_pct": 81.1,
+     "instagram_pct": 0.97,
+     "population": 107355,
+     "population_year": 2021,
+     "places_per_1000": 59.4,
+     "websites_per_1000": 48.2
+    },
+    {
+     "name": "Eglinton-Lawrence",
+     "places": 6013,
+     "website_pct": 85.1,
+     "instagram_pct": 1.36,
+     "population": 114820,
+     "population_year": 2021,
+     "places_per_1000": 52.4,
+     "websites_per_1000": 44.6
+    },
+    {
+     "name": "Toronto-St. Paul's",
+     "places": 5400,
+     "website_pct": 84.4,
+     "instagram_pct": 1.28,
+     "population": 114095,
+     "population_year": 2021,
+     "places_per_1000": 47.3,
+     "websites_per_1000": 40.0
+    },
+    {
+     "name": "Willowdale",
+     "places": 5301,
+     "website_pct": 82.9,
+     "instagram_pct": 1.09,
+     "population": 117130,
+     "population_year": 2021,
+     "places_per_1000": 45.3,
+     "websites_per_1000": 37.5
+    },
+    {
+     "name": "Toronto-Danforth",
+     "places": 5200,
+     "website_pct": 82.5,
+     "instagram_pct": 1.21,
+     "population": 104555,
+     "population_year": 2021,
+     "places_per_1000": 49.7,
+     "websites_per_1000": 41.1
+    },
+    {
+     "name": "Etobicoke North",
+     "places": 5083,
+     "website_pct": 80.5,
+     "instagram_pct": 1.1,
+     "population": 115120,
+     "population_year": 2021,
+     "places_per_1000": 44.2,
+     "websites_per_1000": 35.5
+    },
+    {
+     "name": "Scarborough Centre",
+     "places": 4947,
+     "website_pct": 80.4,
+     "instagram_pct": 1.27,
+     "population": 111560,
+     "population_year": 2021,
+     "places_per_1000": 44.3,
+     "websites_per_1000": 35.6
+    },
+    {
+     "name": "Davenport",
+     "places": 4457,
+     "website_pct": 80.1,
+     "instagram_pct": 1.84,
+     "population": 104730,
+     "population_year": 2021,
+     "places_per_1000": 42.6,
+     "websites_per_1000": 34.1
+    },
+    {
+     "name": "Parkdale-High Park",
+     "places": 4408,
+     "website_pct": 82.7,
+     "instagram_pct": 1.38,
+     "population": 104715,
+     "population_year": 2021,
+     "places_per_1000": 42.1,
+     "websites_per_1000": 34.8
+    },
+    {
+     "name": "Humber River-Black Creek",
+     "places": 4182,
+     "website_pct": 77.4,
+     "instagram_pct": 1.22,
+     "population": 111200,
+     "population_year": 2021,
+     "places_per_1000": 37.6,
+     "websites_per_1000": 29.1
+    },
+    {
+     "name": "Don Valley East",
+     "places": 4121,
+     "website_pct": 83.4,
+     "instagram_pct": 1.09,
+     "population": 94335,
+     "population_year": 2021,
+     "places_per_1000": 43.7,
+     "websites_per_1000": 36.4
+    },
+    {
+     "name": "Scarborough North",
+     "places": 4109,
+     "website_pct": 79.8,
+     "instagram_pct": 1.07,
+     "population": 94025,
+     "population_year": 2021,
+     "places_per_1000": 43.7,
+     "websites_per_1000": 34.9
+    },
+    {
+     "name": "Beaches-East York",
+     "places": 3773,
+     "website_pct": 81.1,
+     "instagram_pct": 1.09,
+     "population": 108500,
+     "population_year": 2021,
+     "places_per_1000": 34.8,
+     "websites_per_1000": 28.2
+    },
+    {
+     "name": "Don Valley North",
+     "places": 3728,
+     "website_pct": 83.1,
+     "instagram_pct": 1.45,
+     "population": 112590,
+     "population_year": 2021,
+     "places_per_1000": 33.1,
+     "websites_per_1000": 27.5
+    },
+    {
+     "name": "York South-Weston",
+     "places": 3597,
+     "website_pct": 74.7,
+     "instagram_pct": 1.17,
+     "population": 115675,
+     "population_year": 2021,
+     "places_per_1000": 31.1,
+     "websites_per_1000": 23.2
+    },
+    {
+     "name": "Don Valley West",
+     "places": 3549,
+     "website_pct": 83.9,
+     "instagram_pct": 1.61,
+     "population": 101025,
+     "population_year": 2021,
+     "places_per_1000": 35.1,
+     "websites_per_1000": 29.5
+    },
+    {
+     "name": "Scarborough Southwest",
+     "places": 3375,
+     "website_pct": 74.3,
+     "instagram_pct": 1.27,
+     "population": 110095,
+     "population_year": 2021,
+     "places_per_1000": 30.7,
+     "websites_per_1000": 22.8
+    },
+    {
+     "name": "Scarborough-Agincourt",
+     "places": 2924,
+     "website_pct": 78.5,
+     "instagram_pct": 1.23,
+     "population": 103690,
+     "population_year": 2021,
+     "places_per_1000": 28.2,
+     "websites_per_1000": 22.1
+    },
+    {
+     "name": "Scarborough-Guildwood",
+     "places": 2807,
+     "website_pct": 78.3,
+     "instagram_pct": 1.28,
+     "population": 102755,
+     "population_year": 2021,
+     "places_per_1000": 27.3,
+     "websites_per_1000": 21.4
+    },
+    {
+     "name": "Etobicoke Centre",
+     "places": 2445,
+     "website_pct": 80.9,
+     "instagram_pct": 1.39,
+     "population": 117200,
+     "population_year": 2021,
+     "places_per_1000": 20.9,
+     "websites_per_1000": 16.9
+    },
+    {
+     "name": "Scarborough-Rouge Park",
+     "places": 2134,
+     "website_pct": 77.6,
+     "instagram_pct": 1.69,
+     "population": 101485,
+     "population_year": 2021,
+     "places_per_1000": 21.0,
+     "websites_per_1000": 16.3
+    }
+   ]
+  },
+  "madrid": {
+   "places": 178768,
+   "areas": [
+    {
+     "name": "Centro",
+     "places": 23760,
+     "website_pct": 65.9,
+     "instagram_pct": 0.65,
+     "population": 141800,
+     "population_year": 2026,
+     "places_per_1000": 167.6,
+     "websites_per_1000": 110.4
+    },
+    {
+     "name": "Salamanca",
+     "places": 20913,
+     "website_pct": 69.4,
+     "instagram_pct": 0.49,
+     "population": 147256,
+     "population_year": 2026,
+     "places_per_1000": 142.0,
+     "websites_per_1000": 98.6
+    },
+    {
+     "name": "Chamberí",
+     "places": 15762,
+     "website_pct": 66.8,
+     "instagram_pct": 0.49,
+     "population": 141522,
+     "population_year": 2026,
+     "places_per_1000": 111.4,
+     "websites_per_1000": 74.3
+    },
+    {
+     "name": "Chamartín",
+     "places": 13098,
+     "website_pct": 67.9,
+     "instagram_pct": 0.52,
+     "population": 148093,
+     "population_year": 2026,
+     "places_per_1000": 88.4,
+     "websites_per_1000": 60.1
+    },
+    {
+     "name": "Tetuán",
+     "places": 12611,
+     "website_pct": 64.4,
+     "instagram_pct": 0.59,
+     "population": 167776,
+     "population_year": 2026,
+     "places_per_1000": 75.2,
+     "websites_per_1000": 48.4
+    },
+    {
+     "name": "Ciudad Lineal",
+     "places": 8775,
+     "website_pct": 58.2,
+     "instagram_pct": 0.63,
+     "population": 230334,
+     "population_year": 2026,
+     "places_per_1000": 38.1,
+     "websites_per_1000": 22.2
+    },
+    {
+     "name": "Fuencarral - El Pardo",
+     "places": 8734,
+     "website_pct": 63.0,
+     "instagram_pct": 0.65,
+     "population": 256037,
+     "population_year": 2026,
+     "places_per_1000": 34.1,
+     "websites_per_1000": 21.5
+    },
+    {
+     "name": "Carabanchel",
+     "places": 8631,
+     "website_pct": 52.5,
+     "instagram_pct": 0.9,
+     "population": 278090,
+     "population_year": 2026,
+     "places_per_1000": 31.0,
+     "websites_per_1000": 16.3
+    },
+    {
+     "name": "Arganzuela",
+     "places": 7825,
+     "website_pct": 64.9,
+     "instagram_pct": 0.68,
+     "population": 158550,
+     "population_year": 2026,
+     "places_per_1000": 49.4,
+     "websites_per_1000": 32.0
+    },
+    {
+     "name": "Moncloa - Aravaca",
+     "places": 7552,
+     "website_pct": 66.0,
+     "instagram_pct": 0.54,
+     "population": 126257,
+     "population_year": 2026,
+     "places_per_1000": 59.8,
+     "websites_per_1000": 39.5
+    },
+    {
+     "name": "Retiro",
+     "places": 7218,
+     "website_pct": 65.9,
+     "instagram_pct": 0.57,
+     "population": 118863,
+     "population_year": 2026,
+     "places_per_1000": 60.7,
+     "websites_per_1000": 40.0
+    },
+    {
+     "name": "Hortaleza",
+     "places": 6391,
+     "website_pct": 63.5,
+     "instagram_pct": 0.88,
+     "population": 209178,
+     "population_year": 2026,
+     "places_per_1000": 30.6,
+     "websites_per_1000": 19.4
+    },
+    {
+     "name": "San Blas - Canillejas",
+     "places": 6357,
+     "website_pct": 64.4,
+     "instagram_pct": 1.05,
+     "population": 168526,
+     "population_year": 2026,
+     "places_per_1000": 37.7,
+     "websites_per_1000": 24.3
+    },
+    {
+     "name": "Puente de Vallecas",
+     "places": 6138,
+     "website_pct": 49.2,
+     "instagram_pct": 1.01,
+     "population": 257924,
+     "population_year": 2026,
+     "places_per_1000": 23.8,
+     "websites_per_1000": 11.7
+    },
+    {
+     "name": "Latina",
+     "places": 6130,
+     "website_pct": 52.7,
+     "instagram_pct": 0.64,
+     "population": 251139,
+     "population_year": 2026,
+     "places_per_1000": 24.4,
+     "websites_per_1000": 12.9
+    },
+    {
+     "name": "Villaverde",
+     "places": 4497,
+     "website_pct": 54.7,
+     "instagram_pct": 0.82,
+     "population": 172551,
+     "population_year": 2026,
+     "places_per_1000": 26.1,
+     "websites_per_1000": 14.3
+    },
+    {
+     "name": "Usera",
+     "places": 3785,
+     "website_pct": 48.0,
+     "instagram_pct": 0.85,
+     "population": 152937,
+     "population_year": 2026,
+     "places_per_1000": 24.7,
+     "websites_per_1000": 11.9
+    },
+    {
+     "name": "Villa de Vallecas",
+     "places": 3781,
+     "website_pct": 62.4,
+     "instagram_pct": 0.93,
+     "population": 127566,
+     "population_year": 2026,
+     "places_per_1000": 29.6,
+     "websites_per_1000": 18.5
+    },
+    {
+     "name": "Barajas",
+     "places": 2676,
+     "website_pct": 62.6,
+     "instagram_pct": 1.38,
+     "population": 50613,
+     "population_year": 2026,
+     "places_per_1000": 52.9,
+     "websites_per_1000": 33.1
+    },
+    {
+     "name": "Moratalaz",
+     "places": 2258,
+     "website_pct": 60.0,
+     "instagram_pct": 0.75,
+     "population": 94405,
+     "population_year": 2026,
+     "places_per_1000": 23.9,
+     "websites_per_1000": 14.4
+    },
+    {
+     "name": "Vicálvaro",
+     "places": 1876,
+     "website_pct": 57.8,
+     "instagram_pct": 1.17,
+     "population": 97860,
+     "population_year": 2026,
+     "places_per_1000": 19.2,
+     "websites_per_1000": 11.1
+    }
+   ]
+  },
+  "istanbul": {
+   "places": 434210,
+   "areas": [
+    {
+     "name": "Kadıköy",
+     "places": 28199,
+     "website_pct": 54.1,
+     "instagram_pct": 1.44,
+     "population": 458573,
+     "population_year": 2025,
+     "places_per_1000": 61.5,
+     "websites_per_1000": 33.3
+    },
+    {
+     "name": "Şişli",
+     "places": 28149,
+     "website_pct": 60.3,
+     "instagram_pct": 0.99,
+     "population": 261959,
+     "population_year": 2025,
+     "places_per_1000": 107.5,
+     "websites_per_1000": 64.8
+    },
+    {
+     "name": "Fatih",
+     "places": 27205,
+     "website_pct": 47.0,
+     "instagram_pct": 0.64,
+     "population": 351786,
+     "population_year": 2025,
+     "places_per_1000": 77.3,
+     "websites_per_1000": 36.4
+    },
+    {
+     "name": "Ümraniye",
+     "places": 18728,
+     "website_pct": 49.8,
+     "instagram_pct": 0.95,
+     "population": 728913,
+     "population_year": 2025,
+     "places_per_1000": 25.7,
+     "websites_per_1000": 12.8
+    },
+    {
+     "name": "Esenyurt",
+     "places": 16422,
+     "website_pct": 44.2,
+     "instagram_pct": 0.88,
+     "population": 1003905,
+     "population_year": 2025,
+     "places_per_1000": 16.4,
+     "websites_per_1000": 7.2
+    },
+    {
+     "name": "Ataşehir",
+     "places": 16045,
+     "website_pct": 54.8,
+     "instagram_pct": 1.34,
+     "population": 412125,
+     "population_year": 2025,
+     "places_per_1000": 38.9,
+     "websites_per_1000": 21.3
+    },
+    {
+     "name": "Pendik",
+     "places": 15580,
+     "website_pct": 43.1,
+     "instagram_pct": 1.2,
+     "population": 752033,
+     "population_year": 2025,
+     "places_per_1000": 20.7,
+     "websites_per_1000": 8.9
+    },
+    {
+     "name": "Beyoğlu",
+     "places": 15156,
+     "website_pct": 54.6,
+     "instagram_pct": 1.1,
+     "population": 215991,
+     "population_year": 2025,
+     "places_per_1000": 70.2,
+     "websites_per_1000": 38.3
+    },
+    {
+     "name": "Beşiktaş",
+     "places": 14945,
+     "website_pct": 56.7,
+     "instagram_pct": 1.28,
+     "population": 165895,
+     "population_year": 2025,
+     "places_per_1000": 90.1,
+     "websites_per_1000": 51.0
+    },
+    {
+     "name": "Üsküdar",
+     "places": 14472,
+     "website_pct": 46.8,
+     "instagram_pct": 1.01,
+     "population": 514294,
+     "population_year": 2025,
+     "places_per_1000": 28.1,
+     "websites_per_1000": 13.2
+    },
+    {
+     "name": "Başakşehir",
+     "places": 13483,
+     "website_pct": 53.4,
+     "instagram_pct": 1.13,
+     "population": 536797,
+     "population_year": 2025,
+     "places_per_1000": 25.1,
+     "websites_per_1000": 13.4
+    },
+    {
+     "name": "Küçükçekmece",
+     "places": 13346,
+     "website_pct": 39.6,
+     "instagram_pct": 0.88,
+     "population": 785270,
+     "population_year": 2025,
+     "places_per_1000": 17.0,
+     "websites_per_1000": 6.7
+    },
+    {
+     "name": "Bağcılar",
+     "places": 13272,
+     "website_pct": 44.6,
+     "instagram_pct": 0.91,
+     "population": 707635,
+     "population_year": 2025,
+     "places_per_1000": 18.8,
+     "websites_per_1000": 8.4
+    },
+    {
+     "name": "Bahçelievler",
+     "places": 13050,
+     "website_pct": 44.1,
+     "instagram_pct": 0.82,
+     "population": 539035,
+     "population_year": 2025,
+     "places_per_1000": 24.2,
+     "websites_per_1000": 10.7
+    },
+    {
+     "name": "Bakırköy",
+     "places": 12826,
+     "website_pct": 50.6,
+     "instagram_pct": 1.06,
+     "population": 218204,
+     "population_year": 2025,
+     "places_per_1000": 58.8,
+     "websites_per_1000": 29.8
+    },
+    {
+     "name": "Maltepe",
+     "places": 12606,
+     "website_pct": 48.4,
+     "instagram_pct": 1.13,
+     "population": 525044,
+     "population_year": 2025,
+     "places_per_1000": 24.0,
+     "websites_per_1000": 11.6
+    },
+    {
+     "name": "Sarıyer",
+     "places": 12488,
+     "website_pct": 49.9,
+     "instagram_pct": 1.14,
+     "population": 344883,
+     "population_year": 2025,
+     "places_per_1000": 36.2,
+     "websites_per_1000": 18.1
+    },
+    {
+     "name": "Beylikdüzü",
+     "places": 10796,
+     "website_pct": 46.4,
+     "instagram_pct": 0.97,
+     "population": 422988,
+     "population_year": 2025,
+     "places_per_1000": 25.5,
+     "websites_per_1000": 11.8
+    },
+    {
+     "name": "Kartal",
+     "places": 10731,
+     "website_pct": 44.0,
+     "instagram_pct": 0.95,
+     "population": 475630,
+     "population_year": 2025,
+     "places_per_1000": 22.6,
+     "websites_per_1000": 9.9
+    },
+    {
+     "name": "Kağıthane",
+     "places": 10623,
+     "website_pct": 49.5,
+     "instagram_pct": 0.89,
+     "population": 446420,
+     "population_year": 2025,
+     "places_per_1000": 23.8,
+     "websites_per_1000": 11.8
+    },
+    {
+     "name": "Avcılar",
+     "places": 9102,
+     "website_pct": 43.0,
+     "instagram_pct": 0.85,
+     "population": 440663,
+     "population_year": 2025,
+     "places_per_1000": 20.7,
+     "websites_per_1000": 8.9
+    },
+    {
+     "name": "Eyüpsultan",
+     "places": 8963,
+     "website_pct": 41.7,
+     "instagram_pct": 1.09,
+     "population": 425216,
+     "population_year": 2025,
+     "places_per_1000": 21.1,
+     "websites_per_1000": 8.8
+    },
+    {
+     "name": "Tuzla",
+     "places": 8660,
+     "website_pct": 46.1,
+     "instagram_pct": 0.89,
+     "population": 313865,
+     "population_year": 2025,
+     "places_per_1000": 27.6,
+     "websites_per_1000": 12.7
+    },
+    {
+     "name": "Zeytinburnu",
+     "places": 8493,
+     "website_pct": 45.7,
+     "instagram_pct": 0.78,
+     "population": 275471,
+     "population_year": 2025,
+     "places_per_1000": 30.8,
+     "websites_per_1000": 14.1
+    },
+    {
+     "name": "Bayrampaşa",
+     "places": 7894,
+     "website_pct": 41.9,
+     "instagram_pct": 1.01,
+     "population": 272978,
+     "population_year": 2025,
+     "places_per_1000": 28.9,
+     "websites_per_1000": 12.1
+    },
+    {
+     "name": "Büyükçekmece",
+     "places": 7815,
+     "website_pct": 39.4,
+     "instagram_pct": 0.7,
+     "population": 283239,
+     "population_year": 2025,
+     "places_per_1000": 27.6,
+     "websites_per_1000": 10.9
+    },
+    {
+     "name": "Güngören",
+     "places": 7571,
+     "website_pct": 42.8,
+     "instagram_pct": 0.75,
+     "population": 251242,
+     "population_year": 2025,
+     "places_per_1000": 30.1,
+     "websites_per_1000": 12.9
+    },
+    {
+     "name": "Beykoz",
+     "places": 6877,
+     "website_pct": 41.3,
+     "instagram_pct": 0.73,
+     "population": 246833,
+     "population_year": 2025,
+     "places_per_1000": 27.9,
+     "websites_per_1000": 11.5
+    },
+    {
+     "name": "Gaziosmanpaşa",
+     "places": 6520,
+     "website_pct": 36.0,
+     "instagram_pct": 0.67,
+     "population": 478395,
+     "population_year": 2025,
+     "places_per_1000": 13.6,
+     "websites_per_1000": 4.9
+    },
+    {
+     "name": "Sancaktepe",
+     "places": 6495,
+     "website_pct": 41.1,
+     "instagram_pct": 0.8,
+     "population": 507500,
+     "population_year": 2025,
+     "places_per_1000": 12.8,
+     "websites_per_1000": 5.3
+    },
+    {
+     "name": "Esenler",
+     "places": 6043,
+     "website_pct": 43.7,
+     "instagram_pct": 0.86,
+     "population": 419878,
+     "population_year": 2025,
+     "places_per_1000": 14.4,
+     "websites_per_1000": 6.3
+    },
+    {
+     "name": "Çekmeköy",
+     "places": 5653,
+     "website_pct": 43.8,
+     "instagram_pct": 0.87,
+     "population": 315959,
+     "population_year": 2025,
+     "places_per_1000": 17.9,
+     "websites_per_1000": 7.8
+    },
+    {
+     "name": "Sultangazi",
+     "places": 5543,
+     "website_pct": 32.5,
+     "instagram_pct": 0.54,
+     "population": 529306,
+     "population_year": 2025,
+     "places_per_1000": 10.5,
+     "websites_per_1000": 3.4
+    },
+    {
+     "name": "Arnavutköy",
+     "places": 5388,
+     "website_pct": 39.8,
+     "instagram_pct": 0.91,
+     "population": 358469,
+     "population_year": 2025,
+     "places_per_1000": 15.0,
+     "websites_per_1000": 6.0
+    },
+    {
+     "name": "Silivri",
+     "places": 5123,
+     "website_pct": 28.7,
+     "instagram_pct": 0.62,
+     "population": 240029,
+     "population_year": 2025,
+     "places_per_1000": 21.3,
+     "websites_per_1000": 6.1
+    },
+    {
+     "name": "Sultanbeyli",
+     "places": 4598,
+     "website_pct": 39.3,
+     "instagram_pct": 0.63,
+     "population": 378908,
+     "population_year": 2025,
+     "places_per_1000": 12.1,
+     "websites_per_1000": 4.8
+    },
+    {
+     "name": "Çatalca",
+     "places": 2424,
+     "website_pct": 26.9,
+     "instagram_pct": 0.25,
+     "population": 81143,
+     "population_year": 2025,
+     "places_per_1000": 29.9,
+     "websites_per_1000": 8.0
+    },
+    {
+     "name": "Şile",
+     "places": 2025,
+     "website_pct": 28.7,
+     "instagram_pct": 0.49,
+     "population": 50090,
+     "population_year": 2025,
+     "places_per_1000": 40.4,
+     "websites_per_1000": 11.6
+    },
+    {
+     "name": "Adalar",
+     "places": 901,
+     "website_pct": 30.3,
+     "instagram_pct": 0.33,
+     "population": 17489,
+     "population_year": 2025,
+     "places_per_1000": 51.5,
+     "websites_per_1000": 15.6
+    }
+   ]
+  },
+  "izmir": {
+   "places": 136539,
+   "areas": [
+    {
+     "name": "Konak",
+     "places": 22367,
+     "website_pct": 44.7,
+     "instagram_pct": 1.22,
+     "population": 327300,
+     "population_year": 2023,
+     "places_per_1000": 68.3,
+     "websites_per_1000": 30.6
+    },
+    {
+     "name": "Bornova",
+     "places": 15865,
+     "website_pct": 38.9,
+     "instagram_pct": 1.18,
+     "population": 447553,
+     "population_year": 2023,
+     "places_per_1000": 35.4,
+     "websites_per_1000": 13.8
+    },
+    {
+     "name": "Karşıyaka",
+     "places": 11457,
+     "website_pct": 38.8,
+     "instagram_pct": 1.27,
+     "population": 341857,
+     "population_year": 2023,
+     "places_per_1000": 33.5,
+     "websites_per_1000": 13.0
+    },
+    {
+     "name": "Buca",
+     "places": 10585,
+     "website_pct": 31.2,
+     "instagram_pct": 0.77,
+     "population": 523487,
+     "population_year": 2023,
+     "places_per_1000": 20.2,
+     "websites_per_1000": 6.3
+    },
+    {
+     "name": "Bayraklı",
+     "places": 7899,
+     "website_pct": 42.5,
+     "instagram_pct": 1.11,
+     "population": 300949,
+     "population_year": 2023,
+     "places_per_1000": 26.2,
+     "websites_per_1000": 11.2
+    },
+    {
+     "name": "Karabağlar",
+     "places": 7722,
+     "website_pct": 30.0,
+     "instagram_pct": 0.79,
+     "population": 476500,
+     "population_year": 2023,
+     "places_per_1000": 16.2,
+     "websites_per_1000": 4.9
+    },
+    {
+     "name": "Çeşme",
+     "places": 5228,
+     "website_pct": 39.4,
+     "instagram_pct": 1.32,
+     "population": 50028,
+     "population_year": 2023,
+     "places_per_1000": 104.5,
+     "websites_per_1000": 41.2
+    },
+    {
+     "name": "Gaziemir",
+     "places": 5074,
+     "website_pct": 40.5,
+     "instagram_pct": 0.79,
+     "population": 137768,
+     "population_year": 2023,
+     "places_per_1000": 36.8,
+     "websites_per_1000": 14.9
+    },
+    {
+     "name": "Çiğli",
+     "places": 4910,
+     "website_pct": 37.1,
+     "instagram_pct": 1.06,
+     "population": 215172,
+     "population_year": 2023,
+     "places_per_1000": 22.8,
+     "websites_per_1000": 8.5
+    },
+    {
+     "name": "Torbalı",
+     "places": 4411,
+     "website_pct": 30.1,
+     "instagram_pct": 0.52,
+     "population": 214059,
+     "population_year": 2023,
+     "places_per_1000": 20.6,
+     "websites_per_1000": 6.2
+    },
+    {
+     "name": "Menderes",
+     "places": 3579,
+     "website_pct": 31.3,
+     "instagram_pct": 0.53,
+     "population": 109356,
+     "population_year": 2023,
+     "places_per_1000": 32.7,
+     "websites_per_1000": 10.2
+    },
+    {
+     "name": "Menemen",
+     "places": 3535,
+     "website_pct": 28.0,
+     "instagram_pct": 0.82,
+     "population": 207748,
+     "population_year": 2023,
+     "places_per_1000": 17.0,
+     "websites_per_1000": 4.8
+    },
+    {
+     "name": "Urla",
+     "places": 3425,
+     "website_pct": 32.1,
+     "instagram_pct": 0.91,
+     "population": 77599,
+     "population_year": 2023,
+     "places_per_1000": 44.1,
+     "websites_per_1000": 14.2
+    },
+    {
+     "name": "Ödemiş",
+     "places": 3410,
+     "website_pct": 18.6,
+     "instagram_pct": 0.35,
+     "population": 132650,
+     "population_year": 2023,
+     "places_per_1000": 25.7,
+     "websites_per_1000": 4.8
+    },
+    {
+     "name": "Balçova",
+     "places": 3229,
+     "website_pct": 39.1,
+     "instagram_pct": 1.15,
+     "population": 77831,
+     "population_year": 2023,
+     "places_per_1000": 41.5,
+     "websites_per_1000": 16.2
+    },
+    {
+     "name": "Kemalpaşa",
+     "places": 3008,
+     "website_pct": 32.6,
+     "instagram_pct": 0.83,
+     "population": 117956,
+     "population_year": 2023,
+     "places_per_1000": 25.5,
+     "websites_per_1000": 8.3
+    },
+    {
+     "name": "Aliağa",
+     "places": 2636,
+     "website_pct": 26.2,
+     "instagram_pct": 0.61,
+     "population": 106168,
+     "population_year": 2023,
+     "places_per_1000": 24.8,
+     "websites_per_1000": 6.5
+    },
+    {
+     "name": "Bergama",
+     "places": 2606,
+     "website_pct": 20.3,
+     "instagram_pct": 0.46,
+     "population": 107133,
+     "population_year": 2023,
+     "places_per_1000": 24.3,
+     "websites_per_1000": 4.9
+    },
+    {
+     "name": "Tire",
+     "places": 2370,
+     "website_pct": 20.3,
+     "instagram_pct": 0.38,
+     "population": 87935,
+     "population_year": 2023,
+     "places_per_1000": 27.0,
+     "websites_per_1000": 5.5
+    },
+    {
+     "name": "Seferihisar",
+     "places": 2276,
+     "website_pct": 26.4,
+     "instagram_pct": 0.66,
+     "population": 58570,
+     "population_year": 2023,
+     "places_per_1000": 38.9,
+     "websites_per_1000": 10.2
+    },
+    {
+     "name": "Dikili",
+     "places": 1895,
+     "website_pct": 18.5,
+     "instagram_pct": 0.26,
+     "population": 48379,
+     "population_year": 2023,
+     "places_per_1000": 39.2,
+     "websites_per_1000": 7.2
+    },
+    {
+     "name": "Selçuk",
+     "places": 1717,
+     "website_pct": 27.0,
+     "instagram_pct": 0.58,
+     "population": 38467,
+     "population_year": 2023,
+     "places_per_1000": 44.6,
+     "websites_per_1000": 12.0
+    },
+    {
+     "name": "Narlıdere",
+     "places": 1714,
+     "website_pct": 33.4,
+     "instagram_pct": 0.7,
+     "population": 62148,
+     "population_year": 2023,
+     "places_per_1000": 27.6,
+     "websites_per_1000": 9.2
+    },
+    {
+     "name": "Güzelbahçe",
+     "places": 1601,
+     "website_pct": 36.7,
+     "instagram_pct": 1.31,
+     "population": 38044,
+     "population_year": 2023,
+     "places_per_1000": 42.1,
+     "websites_per_1000": 15.5
+    },
+    {
+     "name": "Foça",
+     "places": 1442,
+     "website_pct": 25.2,
+     "instagram_pct": 0.62,
+     "population": 36000,
+     "population_year": 2023,
+     "places_per_1000": 40.1,
+     "websites_per_1000": 10.1
+    },
+    {
+     "name": "Bayındır",
+     "places": 885,
+     "website_pct": 16.4,
+     "instagram_pct": 0.56,
+     "population": 40618,
+     "population_year": 2023,
+     "places_per_1000": 21.8,
+     "websites_per_1000": 3.6
+    },
+    {
+     "name": "Karaburun",
+     "places": 713,
+     "website_pct": 26.1,
+     "instagram_pct": 0.28,
+     "population": 13379,
+     "population_year": 2023,
+     "places_per_1000": 53.3,
+     "websites_per_1000": 13.9
+    },
+    {
+     "name": "Kiraz",
+     "places": 434,
+     "website_pct": 16.1,
+     "instagram_pct": 0.23,
+     "population": 43572,
+     "population_year": 2023,
+     "places_per_1000": 10.0,
+     "websites_per_1000": 1.6
+    },
+    {
+     "name": "Kınık",
+     "places": 396,
+     "website_pct": 15.9,
+     "instagram_pct": 0.51,
+     "population": 29205,
+     "population_year": 2023,
+     "places_per_1000": 13.6,
+     "websites_per_1000": 2.2
+    },
+    {
+     "name": "Beydağ",
+     "places": 150,
+     "website_pct": 16.7,
+     "instagram_pct": 0.0,
+     "population": 12094,
+     "population_year": 2023,
+     "places_per_1000": 12.4,
+     "websites_per_1000": 2.1
+    }
+   ]
+  }
+ },
+ "official_sources": [
+  {
+   "file": "at_pop.csv",
+   "portal": "data.gv.at",
+   "title": "Bevölkerungsentwicklung Bundesländer Österreich",
+   "publisher": "Stadt Wien (MA 23), data.gv.at",
+   "url": "https://www.data.gv.at/katalog/datasets/8f6ed11c-c785-4cf0-b7ee-49598f655330",
+   "license": "CC BY 4.0",
+   "usedFor": "AT",
+   "kind": "population"
+  },
+  {
+   "file": "nyc_areas.geojson",
+   "portal": "NYC Open Data (data.cityofnewyork.us)",
+   "title": "Borough Boundaries",
+   "publisher": "NYC Department of City Planning (DCP)",
+   "url": "https://data.cityofnewyork.us/City-Government/Borough-Boundaries/gthc-hcne",
+   "license": "NYC Open Data Terms of Use (no license field on dataset page)",
+   "usedFor": "nyc",
+   "kind": "boundaries"
+  },
+  {
+   "file": "nyc_pop.csv",
+   "portal": "NYC Open Data (data.cityofnewyork.us)",
+   "title": "New York City Population by Borough, 1950 - 2040",
+   "publisher": "NYC Department of City Planning (DCP)",
+   "url": "https://data.cityofnewyork.us/City-Government/New-York-City-Population-by-Borough-1950-2040/xywu-7bv9",
+   "license": "NYC Open Data Terms of Use (no license field on dataset page)",
+   "usedFor": "nyc",
+   "kind": "population"
+  },
+  {
+   "file": "toronto_areas.geojson",
+   "portal": "City of Toronto Open Data (open.toronto.ca)",
+   "title": "City Wards",
+   "publisher": "City Clerk's Office",
+   "url": "https://open.toronto.ca/dataset/city-wards/",
+   "license": "Open Government Licence - Toronto",
+   "usedFor": "toronto",
+   "kind": "boundaries"
+  },
+  {
+   "file": "toronto_pop.csv",
+   "portal": "City of Toronto Open Data (open.toronto.ca)",
+   "title": "Ward Profiles (25-Ward Model)",
+   "publisher": "City Planning (source: Statistics Canada 2021 Census, custom tabulation)",
+   "url": "https://open.toronto.ca/dataset/ward-profiles-25-ward-model/",
+   "license": "Open Government Licence - Toronto",
+   "usedFor": "toronto",
+   "kind": "population"
+  },
+  {
+   "file": "madrid_areas.geojson",
+   "portal": "Portal de datos abiertos del Ayuntamiento de Madrid (datos.madrid.es)",
+   "title": "Distritos municipales de Madrid",
+   "publisher": "Ayuntamiento de Madrid",
+   "url": "https://datos.madrid.es/dataset/300497-0-distritos-municipales-madrid",
+   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+   "usedFor": "madrid",
+   "kind": "boundaries"
+  },
+  {
+   "file": "madrid_pop.csv",
+   "portal": "Portal de datos abiertos del Ayuntamiento de Madrid (datos.madrid.es)",
+   "title": "Población por distrito y barrio a 1 de enero",
+   "publisher": "Ayuntamiento de Madrid",
+   "url": "https://datos.madrid.es/dataset/300557-0-poblacion-distrito-barrio",
+   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+   "usedFor": "madrid",
+   "kind": "population"
+  },
+  {
+   "file": "izmir_areas.geojson",
+   "portal": "Izmir Metropolitan Municipality Open Data (acikveri.bizizmir.com)",
+   "title": "İzmir Şehir Haritası (ilceler.geojson)",
+   "publisher": "Akıllı Şehir ve Kent Bilgi Sistemleri Dairesi Başkanlığı (İzmir Büyükşehir Belediyesi)",
+   "url": "https://acikveri.bizizmir.com/dataset/izmir-sehir-haritasi",
+   "license": "Izmir Metropolitan Municipality Open Data License",
+   "usedFor": "izmir",
+   "kind": "boundaries"
+  },
+  {
+   "file": "izmir_pop.csv",
+   "portal": "Izmir Metropolitan Municipality Open Data (acikveri.bizizmir.com)",
+   "title": "İzmir İlçelerinin Cinsiyete Göre Nüfus Bilgileri",
+   "publisher": "TÜİK (published by İzmir Büyükşehir Belediyesi)",
+   "url": "https://acikveri.bizizmir.com/dataset/izmir-ilcelerinin-cinsiyete-gore-nufus-bilgileri",
+   "license": "License not specified on portal",
+   "usedFor": "izmir",
+   "kind": "population"
+  },
+  {
+   "file": "istanbul_pop.csv",
+   "portal": "Istanbul Metropolitan Municipality Open Data (data.ibb.gov.tr)",
+   "title": "Population Information (Nüfus Bilgileri)",
+   "publisher": "Istanbul Metropolitan Municipality, built from TÜİK MEDAS",
+   "url": "https://data.ibb.gov.tr/dataset/nufus-bilgileri",
+   "license": "Istanbul Metropolitan Municipality Open Data License",
+   "usedFor": "istanbul",
+   "kind": "population"
+  },
+  {
+   "file": "ch_pop.csv",
+   "portal": "opendata.swiss",
+   "title": "Bilanz der ständigen Wohnbevölkerung, nach Kanton und Stadt, 1999-2025",
+   "publisher": "Bundesamt für Statistik (BFS)",
+   "url": "https://opendata.swiss/de/dataset/bilanz-der-standigen-wohnbevolkerung-nach-kanton-und-stadt-1999-2025",
+   "license": "opendata.swiss terms of use: free use, attribution required (terms_by) https://opendata.swiss/terms-of-use#terms_by",
+   "usedFor": "CH",
+   "kind": "population"
+  },
+  {
+   "file": "es_pop.csv",
+   "portal": "datos.gob.es",
+   "title": "Población residente por fecha, sexo y edad (desde 1971). ECP (Identificador API: 69792)",
+   "publisher": "Instituto Nacional de Estadística (INE)",
+   "url": "https://datos.gob.es/es/catalogo/ea0042823-poblacion-residente-por-fecha-sexo-y-edad-desde-1971-ecp-identificador-api-69792",
+   "license": "INE reuse conditions (free reuse citing INE as source); datos.gob.es lists no explicit license",
+   "usedFor": "ES",
+   "kind": "population"
+  },
+  {
+   "file": "es_ccaa_pop.csv",
+   "portal": "datos.gob.es",
+   "title": "Población residente por fecha, sexo y edad. ECP (Identificador API: 59238)",
+   "publisher": "Instituto Nacional de Estadística (INE)",
+   "url": "https://datos.gob.es/es/catalogo/ea0042823-poblacion-residente-por-fecha-sexo-y-edad-ecp-identificador-api-59238",
+   "license": "INE reuse conditions (free reuse citing INE as source); datos.gob.es lists no explicit license",
+   "usedFor": "ES_CCAA",
+   "kind": "population"
+  },
+  {
+   "file": "fr_pop.csv",
+   "portal": "data.gouv.fr",
+   "title": "Populations de référence (populations légales 2023)",
+   "publisher": "Institut national de la statistique et des études économiques (Insee)",
+   "url": "https://www.data.gouv.fr/datasets/populations-de-reference",
+   "license": "Licence Ouverte v2.0 (lov2)",
+   "usedFor": "FR",
+   "kind": "population"
+  },
+  {
+   "file": "fr_region_pop.csv",
+   "portal": "data.gouv.fr",
+   "title": "Populations de référence (populations légales 2023)",
+   "publisher": "Institut national de la statistique et des études économiques (Insee)",
+   "url": "https://www.data.gouv.fr/datasets/populations-de-reference",
+   "license": "Licence Ouverte v2.0 (lov2)",
+   "usedFor": "FR_REG",
+   "kind": "population"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+[
+ {
+  "file": "at_pop.csv",
+  "portal": "data.gv.at",
+  "title": "Bevölkerungsentwicklung Bundesländer Österreich",
+  "publisher": "Stadt Wien (MA 23), data.gv.at",
+  "url": "https://www.data.gv.at/katalog/datasets/8f6ed11c-c785-4cf0-b7ee-49598f655330",
+  "license": "CC BY 4.0",
+  "usedFor": "AT",
+  "kind": "population"
+ },
+ {
+  "file": "nyc_areas.geojson",
+  "portal": "NYC Open Data (data.cityofnewyork.us)",
+  "title": "Borough Boundaries",
+  "publisher": "NYC Department of City Planning (DCP)",
+  "url": "https://data.cityofnewyork.us/City-Government/Borough-Boundaries/gthc-hcne",
+  "license": "NYC Open Data Terms of Use (no license field on dataset page)",
+  "usedFor": "nyc",
+  "kind": "boundaries"
+ },
+ {
+  "file": "nyc_pop.csv",
+  "portal": "NYC Open Data (data.cityofnewyork.us)",
+  "title": "New York City Population by Borough, 1950 - 2040",
+  "publisher": "NYC Department of City Planning (DCP)",
+  "url": "https://data.cityofnewyork.us/City-Government/New-York-City-Population-by-Borough-1950-2040/xywu-7bv9",
+  "license": "NYC Open Data Terms of Use (no license field on dataset page)",
+  "usedFor": "nyc",
+  "kind": "population"
+ },
+ {
+  "file": "toronto_areas.geojson",
+  "portal": "City of Toronto Open Data (open.toronto.ca)",
+  "title": "City Wards",
+  "publisher": "City Clerk's Office",
+  "url": "https://open.toronto.ca/dataset/city-wards/",
+  "license": "Open Government Licence - Toronto",
+  "usedFor": "toronto",
+  "kind": "boundaries"
+ },
+ {
+  "file": "toronto_pop.csv",
+  "portal": "City of Toronto Open Data (open.toronto.ca)",
+  "title": "Ward Profiles (25-Ward Model)",
+  "publisher": "City Planning (source: Statistics Canada 2021 Census, custom tabulation)",
+  "url": "https://open.toronto.ca/dataset/ward-profiles-25-ward-model/",
+  "license": "Open Government Licence - Toronto",
+  "usedFor": "toronto",
+  "kind": "population"
+ },
+ {
+  "file": "madrid_areas.geojson",
+  "portal": "Portal de datos abiertos del Ayuntamiento de Madrid (datos.madrid.es)",
+  "title": "Distritos municipales de Madrid",
+  "publisher": "Ayuntamiento de Madrid",
+  "url": "https://datos.madrid.es/dataset/300497-0-distritos-municipales-madrid",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "usedFor": "madrid",
+  "kind": "boundaries"
+ },
+ {
+  "file": "madrid_pop.csv",
+  "portal": "Portal de datos abiertos del Ayuntamiento de Madrid (datos.madrid.es)",
+  "title": "Población por distrito y barrio a 1 de enero",
+  "publisher": "Ayuntamiento de Madrid",
+  "url": "https://datos.madrid.es/dataset/300557-0-poblacion-distrito-barrio",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "usedFor": "madrid",
+  "kind": "population"
+ },
+ {
+  "file": "izmir_areas.geojson",
+  "portal": "Izmir Metropolitan Municipality Open Data (acikveri.bizizmir.com)",
+  "title": "İzmir Şehir Haritası (ilceler.geojson)",
+  "publisher": "Akıllı Şehir ve Kent Bilgi Sistemleri Dairesi Başkanlığı (İzmir Büyükşehir Belediyesi)",
+  "url": "https://acikveri.bizizmir.com/dataset/izmir-sehir-haritasi",
+  "license": "Izmir Metropolitan Municipality Open Data License",
+  "usedFor": "izmir",
+  "kind": "boundaries"
+ },
+ {
+  "file": "izmir_pop.csv",
+  "portal": "Izmir Metropolitan Municipality Open Data (acikveri.bizizmir.com)",
+  "title": "İzmir İlçelerinin Cinsiyete Göre Nüfus Bilgileri",
+  "publisher": "TÜİK (published by İzmir Büyükşehir Belediyesi)",
+  "url": "https://acikveri.bizizmir.com/dataset/izmir-ilcelerinin-cinsiyete-gore-nufus-bilgileri",
+  "license": "License not specified on portal",
+  "usedFor": "izmir",
+  "kind": "population"
+ },
+ {
+  "file": "istanbul_pop.csv",
+  "portal": "Istanbul Metropolitan Municipality Open Data (data.ibb.gov.tr)",
+  "title": "Population Information (Nüfus Bilgileri)",
+  "publisher": "Istanbul Metropolitan Municipality, built from TÜİK MEDAS",
+  "url": "https://data.ibb.gov.tr/dataset/nufus-bilgileri",
+  "license": "Istanbul Metropolitan Municipality Open Data License",
+  "usedFor": "istanbul",
+  "kind": "population"
+ },
+ {
+  "file": "ch_pop.csv",
+  "portal": "opendata.swiss",
+  "title": "Bilanz der ständigen Wohnbevölkerung, nach Kanton und Stadt, 1999-2025",
+  "publisher": "Bundesamt für Statistik (BFS)",
+  "url": "https://opendata.swiss/de/dataset/bilanz-der-standigen-wohnbevolkerung-nach-kanton-und-stadt-1999-2025",
+  "license": "opendata.swiss terms of use: free use, attribution required (terms_by) https://opendata.swiss/terms-of-use#terms_by",
+  "usedFor": "CH",
+  "kind": "population"
+ },
+ {
+  "file": "es_pop.csv",
+  "portal": "datos.gob.es",
+  "title": "Población residente por fecha, sexo y edad (desde 1971). ECP (Identificador API: 69792)",
+  "publisher": "Instituto Nacional de Estadística (INE)",
+  "url": "https://datos.gob.es/es/catalogo/ea0042823-poblacion-residente-por-fecha-sexo-y-edad-desde-1971-ecp-identificador-api-69792",
+  "license": "INE reuse conditions (free reuse citing INE as source); datos.gob.es lists no explicit license",
+  "usedFor": "ES",
+  "kind": "population"
+ },
+ {
+  "file": "es_ccaa_pop.csv",
+  "portal": "datos.gob.es",
+  "title": "Población residente por fecha, sexo y edad. ECP (Identificador API: 59238)",
+  "publisher": "Instituto Nacional de Estadística (INE)",
+  "url": "https://datos.gob.es/es/catalogo/ea0042823-poblacion-residente-por-fecha-sexo-y-edad-ecp-identificador-api-59238",
+  "license": "INE reuse conditions (free reuse citing INE as source); datos.gob.es lists no explicit license",
+  "usedFor": "ES_CCAA",
+  "kind": "population"
+ },
+ {
+  "file": "fr_pop.csv",
+  "portal": "data.gouv.fr",
+  "title": "Populations de référence (populations légales 2023)",
+  "publisher": "Institut national de la statistique et des études économiques (Insee)",
+  "url": "https://www.data.gouv.fr/datasets/populations-de-reference",
+  "license": "Licence Ouverte v2.0 (lov2)",
+  "usedFor": "FR",
+  "kind": "population"
+ },
+ {
+  "file": "fr_region_pop.csv",
+  "portal": "data.gouv.fr",
+  "title": "Populations de référence (populations légales 2023)",
+  "publisher": "Institut national de la statistique et des études économiques (Insee)",
+  "url": "https://www.data.gouv.fr/datasets/populations-de-reference",
+  "license": "Licence Ouverte v2.0 (lov2)",
+  "usedFor": "FR_REG",
+  "kind": "population"
+ }
+]

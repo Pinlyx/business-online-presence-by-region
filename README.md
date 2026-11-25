@@ -23,6 +23,27 @@ Cross-country comparisons need care: where most Overture records come from Faceb
 (TR, MX, BR, ID, PT), the social share is near 100% by construction and the website share is lower
 partly for the same reason. Compare regions within a country.
 
+## Luxembourg by canton
+
+26,595 open places from Overture Maps assigned to the 12 cantons (point-in-polygon, Overture division areas) and related to the official resident population on 1 January 2026 from STATEC ([Population by canton and municipality](https://data.public.lu/fr/datasets/statistiques-par-niveau-geographique-cantons-population/), data.public.lu, CC0). File: `data/luxembourg-cantons-2026.csv`.
+
+| Canton | Places | With a website | Residents (2026) | Business websites per 1,000 residents |
+|---|---:|---:|---:|---:|
+| Clervaux | 1,137 | 77.9% | 22,179 | 39.9 |
+| Luxembourg | 10,167 | 77.6% | 213,766 | 36.9 |
+| Wiltz | 783 | 74.3% | 20,391 | 28.5 |
+| Remich | 957 | 73.4% | 24,827 | 28.3 |
+| Capellen | 2,022 | 78.2% | 56,562 | 28.0 |
+| Echternach | 779 | 71.2% | 20,683 | 26.8 |
+| Grevenmacher | 1,090 | 77.0% | 34,007 | 24.7 |
+| Esch-sur-Alzette | 6,539 | 71.4% | 197,314 | 23.7 |
+| Diekirch | 1,239 | 69.2% | 36,530 | 23.5 |
+| Redange | 657 | 73.7% | 21,701 | 22.3 |
+| Mersch | 1,048 | 71.0% | 37,191 | 20.0 |
+| Vianden | 177 | 65.5% | 5,808 | 20.0 |
+
+Clervaux (tourism-heavy, 39.9) and the canton of Luxembourg (36.9) lead; Mersch and Vianden (20.0) trail. The share of places with a website is high everywhere (65.5% to 78.2%).
+
 ## Files
 | File | Content |
 |---|---|

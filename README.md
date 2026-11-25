@@ -6,6 +6,8 @@ from [Overture Maps](https://overturemaps.org) (release `2026-11-18.0`), assigne
 government open-data portals** (data.gv.at, opendata.swiss, datos.gob.es, data.gouv.fr,
 datos.madrid.es, NYC Open Data, City of Toronto Open Data, İzmir and İstanbul open data).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24519450.svg)](https://doi.org/10.5281/zenodo.24519450)
+
 Full write-up, tables and charts: **https://pinlyx.com/research/business-online-presence-by-region-2026**
 
 ## Headline numbers
@@ -71,7 +73,7 @@ official files are not redistributed here, download them from the portal pages.
 ## Licence and citation
 Derived tables and scripts: **CC BY 4.0** (data) and MIT (scripts).
 
-> Pinlyx (2026). *Business online presence by region 2026*. https://pinlyx.com/research/business-online-presence-by-region-2026
+> Güven, E. (2026). *Business online presence by region 2026* [Data set]. Pinlyx. https://doi.org/10.5281/zenodo.24519450
 
 ---
 
